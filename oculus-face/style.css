@@ -1,0 +1,266 @@
+:root {
+  --bg: #0b0e14;
+  --panel: #12161f;
+  --line: rgba(237, 238, 240, 0.08);
+  --text: #edeef0;
+  --muted: #7c8394;
+  --amber: #e8a33d;
+  --blue: #5fa8d3;
+  --green: #6fcf97;
+
+  --serif: 'Fraunces', Georgia, serif;
+  --sans: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  overflow: hidden;
+  font-family: var(--sans);
+  color: var(--text);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+
+.screen {
+  position: fixed;
+  inset: 0;
+  display: none;
+  background: var(--bg);
+}
+
+.screen.active { display: block; }
+
+/* ---------- NIGHT ---------- */
+#night {
+  background: #000;
+}
+.night-clock {
+  position: absolute;
+  bottom: 4vh;
+  right: 4vw;
+  font-family: var(--sans);
+  font-size: 1.1vw;
+  letter-spacing: 0.08em;
+  color: rgba(237, 238, 240, 0.07);
+}
+
+/* ---------- MORNING ---------- */
+#morning {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  background: radial-gradient(circle at 50% 35%, #1a1710 0%, #0b0e14 65%);
+}
+#morning.active { display: flex; }
+.morning-wrap {
+  text-align: center;
+  max-width: 60vw;
+}
+.morning-eyebrow {
+  font-family: var(--sans);
+  font-size: 1.1vw;
+  color: var(--muted);
+  margin-bottom: 1.2vw;
+}
+.morning-greeting {
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: 4.2vw;
+  line-height: 1.15;
+  margin: 0 0 1.4vw 0;
+  color: var(--text);
+}
+.morning-sub {
+  font-family: var(--sans);
+  font-size: 1.3vw;
+  color: var(--amber);
+  margin-bottom: 2.2vw;
+}
+.morning-first {
+  font-family: var(--sans);
+  font-size: 1.15vw;
+  color: var(--muted);
+}
+
+/* ---------- DAY ---------- */
+#day.active { display: flex; flex-direction: column; }
+#day {
+  padding: 3.2vw 3.6vw 2.4vw;
+}
+
+.bar {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 1.6vw;
+  margin-bottom: 2.2vw;
+}
+
+.arc-wrap { width: 44%; max-width: 480px; }
+#sun-arc { width: 100%; height: auto; overflow: visible; }
+#arc-path {
+  fill: none;
+  stroke: var(--line);
+  stroke-width: 1.5;
+}
+#arc-dot {
+  fill: var(--amber);
+}
+.arc-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85vw;
+  color: var(--muted);
+  margin-top: 0.2vw;
+  padding: 0 6px;
+}
+
+.bar-right { text-align: right; }
+.clock {
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: 3.4vw;
+  line-height: 1;
+}
+.date {
+  font-size: 1vw;
+  color: var(--muted);
+  margin-top: 0.4vw;
+}
+.weather {
+  font-size: 1vw;
+  color: var(--blue);
+  margin-top: 0.2vw;
+}
+
+.grid {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto 1fr;
+  gap: 1.6vw 3vw;
+  min-height: 0;
+}
+
+.now-next {
+  grid-column: 1 / -1;
+  display: flex;
+  gap: 3vw;
+}
+.now-next-row { flex: 1; display: flex; gap: 1vw; align-items: baseline; }
+.nn-label {
+  font-size: 0.85vw;
+  color: var(--muted);
+  min-width: 3.2vw;
+}
+.nn-title {
+  font-family: var(--serif);
+  font-weight: 500;
+  font-size: 1.8vw;
+  line-height: 1.2;
+}
+.nn-time {
+  font-size: 0.95vw;
+  color: var(--muted);
+  margin-top: 0.2vw;
+}
+#now-row .nn-title { color: var(--amber); }
+
+.section-heading {
+  font-size: 0.85vw;
+  color: var(--muted);
+  margin-bottom: 0.9vw;
+  padding-bottom: 0.5vw;
+  border-bottom: 1px solid var(--line);
+}
+
+.timeline, .tasks { min-height: 0; overflow: hidden; }
+
+.timeline-list, .task-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.timeline-list li {
+  display: flex;
+  gap: 1vw;
+  padding: 0.7vw 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 1.05vw;
+}
+.timeline-list li .t-time {
+  color: var(--muted);
+  min-width: 4.8vw;
+  font-variant-numeric: tabular-nums;
+}
+.timeline-list li.done { opacity: 0.4; }
+.timeline-list li.current .t-time { color: var(--amber); }
+
+.task-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 0.8vw;
+  padding: 0.7vw 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 1.05vw;
+}
+.task-list li .t-check {
+  width: 0.75vw;
+  height: 0.75vw;
+  border: 1.5px solid var(--muted);
+  border-radius: 3px;
+  flex: none;
+  position: relative;
+  top: 0.15vw;
+}
+.task-list li.done .t-check {
+  background: var(--green);
+  border-color: var(--green);
+}
+.task-list li.done .t-title {
+  color: var(--muted);
+  text-decoration: line-through;
+}
+.task-list li .t-due {
+  margin-left: auto;
+  font-size: 0.85vw;
+  color: var(--muted);
+}
+
+.empty-note {
+  color: var(--muted);
+  font-size: 1vw;
+  padding: 0.6vw 0;
+}
+
+.foot {
+  margin-top: 1.6vw;
+}
+.day-progress {
+  height: 2px;
+  background: var(--line);
+  border-radius: 1px;
+  overflow: hidden;
+}
+.day-progress-fill {
+  height: 100%;
+  background: var(--amber);
+  width: 0%;
+}
+.foot-text {
+  margin-top: 0.6vw;
+  font-size: 0.75vw;
+  color: var(--muted);
+  text-align: right;
+}
