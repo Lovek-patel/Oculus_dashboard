@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T02:23:09.286Z",
+  "generated_at": "2026-09-11T07:25:51.292Z",
   "events": [
     {
       "title": "Office",
@@ -177,6 +177,13 @@
       "location": null
     },
     {
+      "title": "30 min with Meley A (Love K Patel)",
+      "start": "2026-09-11T12:00:00-04:00",
+      "end": "2026-09-11T12:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "SDN - Mini-Design",
       "start": "2026-09-11T18:00:00-04:00",
       "end": "2026-09-11T19:00:00-04:00",
@@ -248,6 +255,121 @@
     }
   ],
   "tasks": [
+    {
+      "title": "Thank Heckelman for Lunch",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Sketch and design mini design parts",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Transfer backpack",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Clean up Notability",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Set up Notability on laptop",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Finish Art Hum visual annotations",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Complete Art Hum readings for next week",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Buy / find all remaining textbooks",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Review Biomechanics fundamentals",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Review Chemistry & Biology foundations",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Decide room decoration plan",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Put up ceiling/wall stars",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Finish cleaning and sorting books",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Clean area next to desk",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Clean desk surface & setup",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Clean up master schedule",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Finish all Senior Design video assignments",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Get stuff going for mini design",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Finish Environmental Micro coursework",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Add Environmental Microbio to schedule/tasks",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Add Robotic Studio deliverables to tasks",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Make 3 sketches for Robotic Studio",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "Meet with mini design group",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
     {
       "title": "Cancel Gemini Subscription",
       "done": false,
