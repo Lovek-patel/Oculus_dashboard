@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T07:25:51.292Z",
+  "generated_at": "2026-09-11T12:18:50.918Z",
   "events": [
     {
       "title": "Office",
@@ -178,8 +178,8 @@
     },
     {
       "title": "30 min with Meley A (Love K Patel)",
-      "start": "2026-09-11T12:00:00-04:00",
-      "end": "2026-09-11T12:30:00-04:00",
+      "start": "2026-09-11T12:30:00-04:00",
+      "end": "2026-09-11T13:00:00-04:00",
       "allDay": false,
       "location": null
     },
