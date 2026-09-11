@@ -1,0 +1,13 @@
+{
+  "name": "oculus-face",
+  "private": true,
+  "version": "2.0.0",
+  "description": "Ambient dashboard — pulls Google Calendar + Tasks into a static data.json for the display.",
+  "scripts": {
+    "sync": "node scripts/sync.js",
+    "get-token": "node scripts/get-refresh-token.js"
+  },
+  "dependencies": {
+    "googleapis": "^140.0.0"
+  }
+}
