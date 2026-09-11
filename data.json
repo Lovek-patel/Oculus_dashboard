@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T12:18:50.918Z",
+  "generated_at": "2026-09-11T16:41:16.888Z",
   "events": [
     {
       "title": "Office",
@@ -178,8 +178,8 @@
     },
     {
       "title": "30 min with Meley A (Love K Patel)",
-      "start": "2026-09-11T12:30:00-04:00",
-      "end": "2026-09-11T13:00:00-04:00",
+      "start": "2026-09-11T12:00:00-04:00",
+      "end": "2026-09-11T12:30:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -256,7 +256,12 @@
   ],
   "tasks": [
     {
-      "title": "Thank Heckelman for Lunch",
+      "title": "Roomate Agreement",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
+    {
+      "title": "PhD Applications",
       "done": false,
       "due": "2026-09-13T00:00:00.000Z"
     },
@@ -272,11 +277,6 @@
     },
     {
       "title": "Clean up Notability",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Set up Notability on laptop",
       "done": false,
       "due": "2026-09-13T00:00:00.000Z"
     },
