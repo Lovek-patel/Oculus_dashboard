@@ -79,14 +79,41 @@ body[data-mode="focus"] #screen-day,
 body[data-mode="open"] #screen-day { background: transparent; }
 
 /* ---------- asleep ---------- */
-#screen-asleep { background: #000; }
-.asleep-clock {
+#screen-asleep { background: #050710; }
+
+#night-sky {
   position: absolute;
-  bottom: 3rem;
-  right: 3rem;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.star { fill: #eef0f2; animation: twinkle 4s ease-in-out infinite; }
+@keyframes twinkle {
+  0%, 100% { opacity: var(--min-op, 0.15); }
+  50%      { opacity: var(--max-op, 0.9); }
+}
+
+.asleep-content {
+  position: absolute;
+  top: 14%;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+.asleep-greeting {
+  font-family: var(--serif);
+  font-weight: 300;
+  font-size: clamp(1.6rem, 3vw, 2.4rem);
+  color: rgba(238, 240, 242, 0.5);
+  margin: 0 0 0.6rem;
+  letter-spacing: 0.01em;
+}
+.asleep-clock {
   font-size: 1rem;
   letter-spacing: 0.08em;
-  color: rgba(238, 240, 242, 0.06);
+  color: rgba(238, 240, 242, 0.28);
+  margin: 0;
 }
 
 /* ---------- morning ---------- */
