@@ -1,6 +1,37 @@
 // ============================================================
 // OCULUS — config
 // ============================================================
+// ============================================================
+// Night sky — built once, then just left to animate via CSS
+// ============================================================
+function buildStars() {
+  const g = document.getElementById("stars");
+  if (!g || g.childElementCount) return;
+  const NS = "http://www.w3.org/2000/svg";
+  const COUNT = 90;
+
+  for (let i = 0; i < COUNT; i++) {
+    const star = document.createElementNS(NS, "circle");
+    const x = Math.random() * 1600;
+    const y = Math.random() * 520;
+    const r = 0.6 + Math.random() * 1.6;
+    const dur = 3 + Math.random() * 5;
+    const delay = Math.random() * 6;
+    const minOp = 0.1 + Math.random() * 0.15;
+    const maxOp = 0.55 + Math.random() * 0.4;
+
+    star.setAttribute("cx", x.toFixed(1));
+    star.setAttribute("cy", y.toFixed(1));
+    star.setAttribute("r", r.toFixed(2));
+    star.setAttribute("class", "star");
+    star.style.animationDuration = `${dur.toFixed(2)}s`;
+    star.style.animationDelay = `${delay.toFixed(2)}s`;
+    star.style.setProperty("--min-op", minOp.toFixed(2));
+    star.style.setProperty("--max-op", maxOp.toFixed(2));
+    g.appendChild(star);
+  }
+}
+
 const CONFIG = {
   name: "Love",
   latitude: 40.8075,
