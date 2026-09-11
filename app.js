@@ -376,6 +376,7 @@ function tick() {
 }
 
 async function boot() {
+  buildStars();
   await Promise.all([loadData(), loadWeather()]);
   tick();
   setInterval(tick, CONFIG.tickMs);
