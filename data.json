@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T12:43:29.049Z",
+  "generated_at": "2026-09-12T15:52:16.982Z",
   "events": [
     {
       "title": "Office",
@@ -107,6 +107,13 @@
       "location": "600 W 113th St, New York, NY 10025, USA"
     },
     {
+      "title": "Work",
+      "start": "2026-09-12T06:15:00-04:00",
+      "end": "2026-09-12T08:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "Gym",
       "start": "2026-09-12T08:00:00-04:00",
       "end": "2026-09-12T09:30:00-04:00",
@@ -121,6 +128,13 @@
       "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
     },
     {
+      "title": "Work",
+      "start": "2026-09-12T10:30:00-04:00",
+      "end": "2026-09-12T12:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "CMI Chair Training ",
       "start": "2026-09-12T12:00:00-04:00",
       "end": "2026-09-12T17:00:00-04:00",
@@ -129,8 +143,8 @@
     },
     {
       "title": "Dinner",
-      "start": "2026-09-12T19:00:00-04:00",
-      "end": "2026-09-12T20:00:00-04:00",
+      "start": "2026-09-12T17:00:00-04:00",
+      "end": "2026-09-12T18:00:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -199,6 +213,31 @@
     }
   ],
   "tasks": [
+    {
+      "title": "TA - BST - Midterm",
+      "done": false,
+      "due": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "title": "TA - BST - Quiz 1",
+      "done": false,
+      "due": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "title": "TA - BST - Quiz 2",
+      "done": false,
+      "due": "2026-11-24T00:00:00.000Z"
+    },
+    {
+      "title": "TA - BST - Final",
+      "done": false,
+      "due": "2026-12-17T00:00:00.000Z"
+    },
+    {
+      "title": "Add Office Hours to schedule",
+      "done": false,
+      "due": "2026-09-13T00:00:00.000Z"
+    },
     {
       "title": "Check Finances",
       "done": false,
