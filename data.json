@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:21:16.186Z",
+  "generated_at": "2026-09-12T08:45:46.137Z",
   "events": [
     {
       "title": "Office",
@@ -199,6 +199,11 @@
     }
   ],
   "tasks": [
+    {
+      "title": "Check Finances",
+      "done": false,
+      "due": "2026-09-12T00:00:00.000Z"
+    },
     {
       "title": "PhD Applications",
       "done": false,
