@@ -1,109 +1,11 @@
 {
-  "generated_at": "2026-09-11T23:57:18.295Z",
+  "generated_at": "2026-09-12T04:21:16.186Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-09-09T00:00:00",
-      "end": "2026-09-10T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Preply lesson - Xiaomin Q.",
-      "start": "2026-09-09T20:00:00-04:00",
-      "end": "2026-09-09T21:00:00-04:00",
-      "allDay": false,
-      "location": "https://preply.com/edu/chinese/classroom-v2/8331369?utm_source=email_calendar&sig=HqDQgdpjTZgICg7iVhaZwijbiiOLLgBM2hxkuVt2h6ZPDa2O"
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-09-09T21:00:00-04:00",
-      "end": "2026-09-09T22:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-09-09T22:00:00-04:00",
-      "end": "2026-09-10T06:00:00-04:00",
-      "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-09-10T00:00:00",
       "end": "2026-09-11T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-10T06:00:00-04:00",
-      "end": "2026-09-10T07:15:00-04:00",
-      "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-09-10T07:15:00-04:00",
-      "end": "2026-09-10T08:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-10T08:30:00-04:00",
-      "end": "2026-09-10T09:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-09-10T09:00:00-04:00",
-      "end": "2026-09-10T09:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-09-10T09:45:00-04:00",
-      "end": "2026-09-10T11:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-09-10T11:45:00-04:00",
-      "end": "2026-09-10T12:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-09-10T12:45:00-04:00",
-      "end": "2026-09-10T16:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-10T16:00:00-04:00",
-      "end": "2026-09-10T17:00:00-04:00",
-      "allDay": false,
-      "location": "Uris G10"
-    },
-    {
-      "title": "RBS - Sketch",
-      "start": "2026-09-10T17:00:00-04:00",
-      "end": "2026-09-10T19:00:00-04:00",
-      "allDay": false,
-      "location": "Uris G10"
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-09-10T19:00:00-04:00",
-      "end": "2026-09-10T20:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -231,14 +133,72 @@
       "end": "2026-09-12T20:00:00-04:00",
       "allDay": false,
       "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-09-12T21:00:00-04:00",
+      "end": "2026-09-12T22:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-09-12T22:00:00-04:00",
+      "end": "2026-09-13T06:00:00-04:00",
+      "allDay": false,
+      "location": "600 W 113th St, New York, NY 10025, USA"
+    },
+    {
+      "title": "Home",
+      "start": "2026-09-13T00:00:00",
+      "end": "2026-09-14T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-13T06:00:00-04:00",
+      "end": "2026-09-13T06:15:00-04:00",
+      "allDay": false,
+      "location": "600 W 113th St, New York, NY 10025, USA"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-09-13T08:00:00-04:00",
+      "end": "2026-09-13T09:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Run",
+      "start": "2026-09-13T09:30:00-04:00",
+      "end": "2026-09-13T10:30:00-04:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-09-13T11:45:00-04:00",
+      "end": "2026-09-13T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-09-13T19:00:00-04:00",
+      "end": "2026-09-13T20:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Preply lesson - Xiaomin Q.",
+      "start": "2026-09-13T19:30:00-04:00",
+      "end": "2026-09-13T20:20:00-04:00",
+      "allDay": false,
+      "location": "https://preply.com/edu/chinese/classroom-v2/8331369?utm_source=email_calendar&sig=HqDQgdpjTZgICg7iVhaZwijbiiOLLgBM2hxkuVt2h6ZPDa2O"
     }
   ],
   "tasks": [
-    {
-      "title": "Roomate Agreement",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
     {
       "title": "PhD Applications",
       "done": false,
@@ -251,11 +211,6 @@
     },
     {
       "title": "Transfer backpack",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Clean up Notability",
       "done": false,
       "due": "2026-09-13T00:00:00.000Z"
     },
@@ -320,11 +275,6 @@
       "due": "2026-09-13T00:00:00.000Z"
     },
     {
-      "title": "Get stuff going for mini design",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
       "title": "Finish Environmental Micro coursework",
       "done": false,
       "due": "2026-09-13T00:00:00.000Z"
@@ -336,16 +286,6 @@
     },
     {
       "title": "Add Robotic Studio deliverables to tasks",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Make 3 sketches for Robotic Studio",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Meet with mini design group",
       "done": false,
       "due": "2026-09-13T00:00:00.000Z"
     },
