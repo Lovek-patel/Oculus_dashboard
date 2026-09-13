@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T14:35:04.985Z",
+  "generated_at": "2026-09-13T17:41:54.717Z",
   "events": [
     {
       "title": "Office",
@@ -121,6 +121,13 @@
       "location": "600 W 113th St, New York, NY 10025, USA"
     },
     {
+      "title": "Work",
+      "start": "2026-09-13T06:15:00-04:00",
+      "end": "2026-09-13T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "RBS - Meeting",
       "start": "2026-09-13T09:00:00-04:00",
       "end": "2026-09-13T11:00:00-04:00",
@@ -136,8 +143,8 @@
     },
     {
       "title": "Lunch",
-      "start": "2026-09-13T13:30:00-04:00",
-      "end": "2026-09-13T14:30:00-04:00",
+      "start": "2026-09-13T12:30:00-04:00",
+      "end": "2026-09-13T13:30:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -276,22 +283,12 @@
       "due": "2026-12-17T00:00:00.000Z"
     },
     {
-      "title": "Add Office Hours to schedule",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
       "title": "Check Finances",
       "done": false,
       "due": "2026-09-12T00:00:00.000Z"
     },
     {
       "title": "PhD Applications",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Sketch and design mini design parts",
       "done": false,
       "due": "2026-09-13T00:00:00.000Z"
     },
@@ -352,26 +349,6 @@
     },
     {
       "title": "Clean up master schedule",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Finish all Senior Design video assignments",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Finish Environmental Micro coursework",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Add Environmental Microbio to schedule/tasks",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Add Robotic Studio deliverables to tasks",
       "done": false,
       "due": "2026-09-13T00:00:00.000Z"
     },
