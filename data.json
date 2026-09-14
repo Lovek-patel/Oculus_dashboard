@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:54:12.982Z",
+  "generated_at": "2026-09-14T16:49:44.050Z",
   "events": [
     {
       "title": "Home",
@@ -156,9 +156,16 @@
       "location": null
     },
     {
-      "title": "Lunch",
+      "title": "SDN -Mini-Design",
       "start": "2026-09-14T11:30:00-04:00",
-      "end": "2026-09-14T12:30:00-04:00",
+      "end": "2026-09-14T13:00:00-04:00",
+      "allDay": false,
+      "location": "BME Fabrication Room"
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-09-14T13:00:00-04:00",
+      "end": "2026-09-14T14:00:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -311,22 +318,12 @@
       "due": "2026-12-17T00:00:00.000Z"
     },
     {
-      "title": "Check Finances",
-      "done": false,
-      "due": "2026-09-12T00:00:00.000Z"
-    },
-    {
       "title": "PhD Applications",
       "done": false,
       "due": "2026-09-13T00:00:00.000Z"
     },
     {
       "title": "Transfer backpack",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Finish Art Hum visual annotations",
       "done": false,
       "due": "2026-09-13T00:00:00.000Z"
     },
