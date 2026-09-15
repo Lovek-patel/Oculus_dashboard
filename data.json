@@ -1,81 +1,11 @@
 {
-  "generated_at": "2026-09-14T23:43:13.278Z",
+  "generated_at": "2026-09-15T01:55:43.250Z",
   "events": [
-    {
-      "title": "Home",
-      "start": "2026-09-12T00:00:00",
-      "end": "2026-09-13T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-12T18:00:00-04:00",
-      "end": "2026-09-12T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-09-12T21:00:00-04:00",
-      "end": "2026-09-12T22:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-09-12T22:00:00-04:00",
-      "end": "2026-09-13T06:00:00-04:00",
-      "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
-    },
     {
       "title": "Home",
       "start": "2026-09-13T00:00:00",
       "end": "2026-09-14T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-13T06:00:00-04:00",
-      "end": "2026-09-13T06:15:00-04:00",
-      "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-13T06:15:00-04:00",
-      "end": "2026-09-13T09:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "RBS - Meeting",
-      "start": "2026-09-13T09:00:00-04:00",
-      "end": "2026-09-13T11:00:00-04:00",
-      "allDay": false,
-      "location": "Butler 403A"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-09-13T11:00:00-04:00",
-      "end": "2026-09-13T12:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-09-13T12:30:00-04:00",
-      "end": "2026-09-13T13:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-09-13T19:00:00-04:00",
-      "end": "2026-09-13T20:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -294,6 +224,97 @@
       "end": "2026-09-15T20:30:00-04:00",
       "allDay": false,
       "location": "G03 Uris Library"
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-09-15T21:00:00-04:00",
+      "end": "2026-09-15T22:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-09-15T22:00:00-04:00",
+      "end": "2026-09-16T06:00:00-04:00",
+      "allDay": false,
+      "location": "600 W 113th St, New York, NY 10025, USA"
+    },
+    {
+      "title": "CMI Mentee App Deadline",
+      "start": "2026-09-16T00:00:00",
+      "end": "2026-09-17T23:59:59",
+      "allDay": true,
+      "location": "https://www.cc-seas.columbia.edu/OMA/CMI/MenteeApplication"
+    },
+    {
+      "title": "Office",
+      "start": "2026-09-16T00:00:00",
+      "end": "2026-09-17T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-16T06:00:00-04:00",
+      "end": "2026-09-16T06:15:00-04:00",
+      "allDay": false,
+      "location": "600 W 113th St, New York, NY 10025, USA"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-09-16T06:15:00-04:00",
+      "end": "2026-09-16T07:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-09-16T07:30:00-04:00",
+      "end": "2026-09-16T08:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-16T08:00:00-04:00",
+      "end": "2026-09-16T08:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to lab",
+      "start": "2026-09-16T08:30:00-04:00",
+      "end": "2026-09-16T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara - PR Meeting",
+      "start": "2026-09-16T09:00:00-04:00",
+      "end": "2026-09-16T10:30:00-04:00",
+      "allDay": false,
+      "location": "HICC 1010"
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-09-16T10:30:00-04:00",
+      "end": "2026-09-16T11:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-09-16T11:30:00-04:00",
+      "end": "2026-09-16T18:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-09-16T18:45:00-04:00",
+      "end": "2026-09-16T20:00:00-04:00",
+      "allDay": false,
+      "location": null
     }
   ],
   "tasks": [
@@ -316,11 +337,6 @@
       "title": "TA - BST - Final",
       "done": false,
       "due": "2026-12-17T00:00:00.000Z"
-    },
-    {
-      "title": "PhD Applications",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
     },
     {
       "title": "Transfer backpack",
@@ -381,11 +397,6 @@
       "title": "Cancel Gemini Subscription",
       "done": false,
       "due": "2027-07-01T00:00:00.000Z"
-    },
-    {
-      "title": "Switch to Invisalign Tray 12",
-      "done": false,
-      "due": "2026-09-14T00:00:00.000Z"
     },
     {
       "title": "IQIYI Subscription",
