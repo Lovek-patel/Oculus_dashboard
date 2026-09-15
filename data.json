@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T12:51:15.897Z",
+  "generated_at": "2026-09-15T17:32:18.875Z",
   "events": [
     {
       "title": "Home",
@@ -340,11 +340,6 @@
     },
     {
       "title": "Transfer backpack",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Complete Art Hum readings for next week",
       "done": false,
       "due": "2026-09-13T00:00:00.000Z"
     },
