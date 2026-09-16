@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T19:59:03.483Z",
+  "generated_at": "2026-09-16T22:51:52.866Z",
   "events": [
     {
       "title": "Office",
@@ -13,6 +13,13 @@
       "start": "2026-09-14T00:00:00",
       "end": "2026-09-15T23:59:59",
       "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Finish SDN Circuit",
+      "start": "2026-09-14T20:00:00-04:00",
+      "end": "2026-09-14T21:00:00-04:00",
+      "allDay": false,
       "location": null
     },
     {
@@ -109,7 +116,7 @@
     {
       "title": "SND - Meeting",
       "start": "2026-09-15T19:30:00-04:00",
-      "end": "2026-09-15T20:30:00-04:00",
+      "end": "2026-09-15T21:00:00-04:00",
       "allDay": false,
       "location": "G03 Uris Library"
     },
@@ -205,7 +212,7 @@
       "location": null
     },
     {
-      "title": "Tutor",
+      "title": "NSF Application",
       "start": "2026-09-16T20:00:00-04:00",
       "end": "2026-09-16T21:00:00-04:00",
       "allDay": false,
@@ -287,9 +294,55 @@
       "end": "2026-09-17T16:15:00-04:00",
       "allDay": false,
       "location": null
+    },
+    {
+      "title": "RBS - Cad Model",
+      "start": "2026-09-17T16:15:00-04:00",
+      "end": "2026-09-17T18:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-09-17T18:30:00-04:00",
+      "end": "2026-09-17T19:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "NSF Applciation",
+      "start": "2026-09-17T19:30:00-04:00",
+      "end": "2026-09-17T21:30:00-04:00",
+      "allDay": false,
+      "location": null
     }
   ],
   "tasks": [
+    {
+      "title": "BST - Write HW 9 Solution & Rubric",
+      "done": false,
+      "due": "2026-12-05T00:00:00.000Z"
+    },
+    {
+      "title": "BST - Grade HW 5",
+      "done": false,
+      "due": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "title": "BST - Grade HW 4",
+      "done": false,
+      "due": "2026-10-20T00:00:00.000Z"
+    },
+    {
+      "title": "BST - Grade HW 3",
+      "done": false,
+      "due": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "title": "BST - Grade HW 2",
+      "done": false,
+      "due": "2026-09-24T00:00:00.000Z"
+    },
     {
       "title": "TA - BST - Midterm",
       "done": false,
@@ -317,16 +370,6 @@
     },
     {
       "title": "Buy / find all remaining textbooks",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Review Biomechanics fundamentals",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Review Chemistry & Biology foundations",
       "done": false,
       "due": "2026-09-13T00:00:00.000Z"
     },
