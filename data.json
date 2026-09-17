@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T06:09:32.146Z",
+  "generated_at": "2026-09-17T11:43:45.114Z",
   "events": [
     {
       "title": "Office",
@@ -143,17 +143,10 @@
     },
     {
       "title": "Gym",
-      "start": "2026-09-17T06:15:00-04:00",
-      "end": "2026-09-17T07:30:00-04:00",
+      "start": "2026-09-17T07:00:00-04:00",
+      "end": "2026-09-17T08:15:00-04:00",
       "allDay": false,
       "location": null
-    },
-    {
-      "title": "Run",
-      "start": "2026-09-17T07:30:00-04:00",
-      "end": "2026-09-17T08:30:00-04:00",
-      "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
     },
     {
       "title": "Breakfast",
