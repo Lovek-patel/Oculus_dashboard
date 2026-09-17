@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T01:09:29.265Z",
+  "generated_at": "2026-09-17T06:09:32.146Z",
   "events": [
     {
       "title": "Office",
@@ -207,13 +207,6 @@
     {
       "title": "NSF Applciation",
       "start": "2026-09-17T19:30:00-04:00",
-      "end": "2026-09-17T21:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "CMI - Choose Mentees",
-      "start": "2026-09-17T20:30:00-04:00",
       "end": "2026-09-17T21:30:00-04:00",
       "allDay": false,
       "location": null
