@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:43:45.114Z",
+  "generated_at": "2026-09-17T15:41:07.959Z",
   "events": [
     {
       "title": "Office",
@@ -137,14 +137,14 @@
     {
       "title": "Get Ready",
       "start": "2026-09-17T06:00:00-04:00",
-      "end": "2026-09-17T06:15:00-04:00",
+      "end": "2026-09-17T07:00:00-04:00",
       "allDay": false,
       "location": "600 W 113th St, New York, NY 10025, USA"
     },
     {
       "title": "Gym",
       "start": "2026-09-17T07:00:00-04:00",
-      "end": "2026-09-17T08:15:00-04:00",
+      "end": "2026-09-17T08:30:00-04:00",
       "allDay": false,
       "location": null
     },
