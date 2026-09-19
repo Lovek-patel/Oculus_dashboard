@@ -1,109 +1,11 @@
 {
-  "generated_at": "2026-09-18T22:50:02.178Z",
+  "generated_at": "2026-09-19T01:01:30.771Z",
   "events": [
-    {
-      "title": "CMI Mentee App Deadline",
-      "start": "2026-09-16T00:00:00",
-      "end": "2026-09-17T23:59:59",
-      "allDay": true,
-      "location": "https://www.cc-seas.columbia.edu/OMA/CMI/MenteeApplication"
-    },
-    {
-      "title": "Office",
-      "start": "2026-09-16T00:00:00",
-      "end": "2026-09-17T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "NSF Application",
-      "start": "2026-09-16T20:00:00-04:00",
-      "end": "2026-09-16T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-09-16T21:00:00-04:00",
-      "end": "2026-09-16T22:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-09-16T22:00:00-04:00",
-      "end": "2026-09-17T06:00:00-04:00",
-      "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-09-17T00:00:00",
       "end": "2026-09-18T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-17T06:00:00-04:00",
-      "end": "2026-09-17T07:00:00-04:00",
-      "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-09-17T07:00:00-04:00",
-      "end": "2026-09-17T08:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-09-17T08:30:00-04:00",
-      "end": "2026-09-17T09:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-17T09:00:00-04:00",
-      "end": "2026-09-17T09:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-09-17T09:45:00-04:00",
-      "end": "2026-09-17T11:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-09-17T11:45:00-04:00",
-      "end": "2026-09-17T12:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-09-17T12:45:00-04:00",
-      "end": "2026-09-17T16:15:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "NSF Applciation",
-      "start": "2026-09-17T16:15:00-04:00",
-      "end": "2026-09-17T18:15:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-09-17T18:30:00-04:00",
-      "end": "2026-09-17T19:30:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -172,14 +74,7 @@
     {
       "title": "Laser Cut",
       "start": "2026-09-18T13:30:00-04:00",
-      "end": "2026-09-18T15:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Gym",
-      "start": "2026-09-18T15:00:00-04:00",
-      "end": "2026-09-18T16:15:00-04:00",
+      "end": "2026-09-18T16:45:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -259,6 +154,97 @@
       "end": "2026-09-19T19:00:00-04:00",
       "allDay": false,
       "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-09-19T21:00:00-04:00",
+      "end": "2026-09-19T22:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-09-19T22:00:00-04:00",
+      "end": "2026-09-20T06:00:00-04:00",
+      "allDay": false,
+      "location": "600 W 113th St, New York, NY 10025, USA"
+    },
+    {
+      "title": "Home",
+      "start": "2026-09-20T00:00:00",
+      "end": "2026-09-21T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-20T06:00:00-04:00",
+      "end": "2026-09-20T06:15:00-04:00",
+      "allDay": false,
+      "location": "600 W 113th St, New York, NY 10025, USA"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-09-20T08:00:00-04:00",
+      "end": "2026-09-20T09:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Run",
+      "start": "2026-09-20T09:30:00-04:00",
+      "end": "2026-09-20T10:30:00-04:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "LOC - Meeting",
+      "start": "2026-09-20T11:00:00-04:00",
+      "end": "2026-09-20T12:00:00-04:00",
+      "allDay": false,
+      "location": "Uris G11"
+    },
+    {
+      "title": "RBS - Meeting",
+      "start": "2026-09-20T12:00:00-04:00",
+      "end": "2026-09-20T13:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-09-20T13:00:00-04:00",
+      "end": "2026-09-20T14:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "[MAT] September Office Hours 1 (QB, Early Apps, Essays)",
+      "start": "2026-09-20T14:00:00-04:00",
+      "end": "2026-09-20T15:00:00-04:00",
+      "allDay": false,
+      "location": "TBD, Keep an eye on your email"
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-09-20T18:15:00-04:00",
+      "end": "2026-09-20T19:15:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Tutor",
+      "start": "2026-09-20T19:15:00-04:00",
+      "end": "2026-09-20T20:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Preply lesson - Xiaomin Q.",
+      "start": "2026-09-20T19:30:00-04:00",
+      "end": "2026-09-20T20:20:00-04:00",
+      "allDay": false,
+      "location": "https://preply.com/edu/chinese/classroom-v2/8331369?utm_source=email_calendar&sig=HqDQgdpjTZgICg7iVhaZwijbiiOLLgBM2hxkuVt2h6ZPDa2O"
     }
   ],
   "tasks": [
