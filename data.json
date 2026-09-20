@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T01:41:30.703Z",
+  "generated_at": "2026-09-20T07:04:09.062Z",
   "events": [
     {
       "title": "Lydia Martinez Sepulveda's birthday",
@@ -21,6 +21,13 @@
       "end": "2026-09-18T20:15:00-04:00",
       "allDay": false,
       "location": "Lerner 555"
+    },
+    {
+      "title": "Work",
+      "start": "2026-09-18T20:15:00-04:00",
+      "end": "2026-09-18T21:00:00-04:00",
+      "allDay": false,
+      "location": null
     },
     {
       "title": "Bed Time Routine",
@@ -95,7 +102,7 @@
     {
       "title": "Work",
       "start": "2026-09-19T14:00:00-04:00",
-      "end": "2026-09-19T17:00:00-04:00",
+      "end": "2026-09-19T18:00:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -103,6 +110,13 @@
       "title": "Albaraa & Love Dinner",
       "start": "2026-09-19T18:00:00-04:00",
       "end": "2026-09-19T19:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Work",
+      "start": "2026-09-19T19:00:00-04:00",
+      "end": "2026-09-19T21:00:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -254,37 +268,9 @@
       "location": null
     },
     {
-      "title": "Commute to lab",
-      "start": "2026-09-21T08:30:00-04:00",
-      "end": "2026-09-21T09:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara Lab",
-      "start": "2026-09-21T09:00:00-04:00",
-      "end": "2026-09-21T11:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
       "title": "Lunch",
       "start": "2026-09-21T11:45:00-04:00",
       "end": "2026-09-21T12:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara Lab",
-      "start": "2026-09-21T12:45:00-04:00",
-      "end": "2026-09-21T17:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to Campus",
-      "start": "2026-09-21T17:00:00-04:00",
-      "end": "2026-09-21T18:00:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -320,21 +306,6 @@
       "due": "2026-09-19T00:00:00.000Z"
     },
     {
-      "title": "You Maniac 4",
-      "done": false,
-      "due": "2026-09-19T00:00:00.000Z"
-    },
-    {
-      "title": "You Maniac 3",
-      "done": false,
-      "due": "2026-09-19T00:00:00.000Z"
-    },
-    {
-      "title": "You Maniac 2",
-      "done": false,
-      "due": "2026-09-19T00:00:00.000Z"
-    },
-    {
       "title": "Get Agenda IDRM 2",
       "done": false,
       "due": "2026-09-19T00:00:00.000Z"
@@ -345,22 +316,7 @@
       "due": "2026-09-19T00:00:00.000Z"
     },
     {
-      "title": "Need Statements for MP",
-      "done": false,
-      "due": "2026-09-19T00:00:00.000Z"
-    },
-    {
-      "title": "Mini-Design CAD and Slides",
-      "done": false,
-      "due": "2026-09-19T00:00:00.000Z"
-    },
-    {
       "title": "EMB Homework",
-      "done": false,
-      "due": "2026-09-19T00:00:00.000Z"
-    },
-    {
-      "title": "SBM Homeowrk",
       "done": false,
       "due": "2026-09-19T00:00:00.000Z"
     },
