@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T12:23:32.374Z",
+  "generated_at": "2026-09-20T16:23:28.236Z",
   "events": [
     {
       "title": "Lydia Martinez Sepulveda's birthday",
@@ -149,18 +149,11 @@
       "location": "600 W 113th St, New York, NY 10025, USA"
     },
     {
-      "title": "Gym",
-      "start": "2026-09-20T08:00:00-04:00",
-      "end": "2026-09-20T09:30:00-04:00",
+      "title": "Work",
+      "start": "2026-09-20T06:15:00-04:00",
+      "end": "2026-09-20T11:00:00-04:00",
       "allDay": false,
       "location": null
-    },
-    {
-      "title": "Run",
-      "start": "2026-09-20T09:30:00-04:00",
-      "end": "2026-09-20T10:30:00-04:00",
-      "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
     },
     {
       "title": "LOC - Meeting",
@@ -177,9 +170,9 @@
       "location": null
     },
     {
-      "title": "Lunch",
+      "title": "Gym",
       "start": "2026-09-20T13:00:00-04:00",
-      "end": "2026-09-20T14:00:00-04:00",
+      "end": "2026-09-20T14:30:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -189,6 +182,13 @@
       "end": "2026-09-20T15:00:00-04:00",
       "allDay": false,
       "location": "TBD, Keep an eye on your email"
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-09-20T14:30:00-04:00",
+      "end": "2026-09-20T15:30:00-04:00",
+      "allDay": false,
+      "location": null
     },
     {
       "title": "SDN - Mini-Design",
@@ -213,8 +213,8 @@
     },
     {
       "title": "Preply lesson - Xiaomin Q.",
-      "start": "2026-09-20T19:30:00-04:00",
-      "end": "2026-09-20T20:20:00-04:00",
+      "start": "2026-09-20T20:00:00-04:00",
+      "end": "2026-09-20T20:50:00-04:00",
       "allDay": false,
       "location": "https://preply.com/edu/chinese/classroom-v2/8331369?utm_source=email_calendar&sig=HqDQgdpjTZgICg7iVhaZwijbiiOLLgBM2hxkuVt2h6ZPDa2O"
     },
