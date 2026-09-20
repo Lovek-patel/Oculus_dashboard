@@ -1,27 +1,6 @@
 {
-  "generated_at": "2026-09-19T23:35:20.978Z",
+  "generated_at": "2026-09-20T01:41:30.703Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-09-17T00:00:00",
-      "end": "2026-09-18T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-09-17T21:30:00-04:00",
-      "end": "2026-09-17T22:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-09-17T22:00:00-04:00",
-      "end": "2026-09-18T06:00:00-04:00",
-      "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
-    },
     {
       "title": "Lydia Martinez Sepulveda's birthday",
       "start": "2026-09-18T00:00:00",
@@ -34,48 +13,6 @@
       "start": "2026-09-18T00:00:00",
       "end": "2026-09-19T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-18T06:00:00-04:00",
-      "end": "2026-09-18T06:15:00-04:00",
-      "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-18T06:15:00-04:00",
-      "end": "2026-09-18T10:15:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-18T10:15:00-04:00",
-      "end": "2026-09-18T11:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "CMI Weekly Chair Meetings",
-      "start": "2026-09-18T11:00:00-04:00",
-      "end": "2026-09-18T12:00:00-04:00",
-      "allDay": false,
-      "location": "Lerner 510K"
-    },
-    {
-      "title": "SHAPE Luncheon with SSLs/Dean Chang",
-      "start": "2026-09-18T12:00:00-04:00",
-      "end": "2026-09-18T13:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Laser Cut",
-      "start": "2026-09-18T13:30:00-04:00",
-      "end": "2026-09-18T16:45:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -266,6 +203,104 @@
       "end": "2026-09-20T20:20:00-04:00",
       "allDay": false,
       "location": "https://preply.com/edu/chinese/classroom-v2/8331369?utm_source=email_calendar&sig=HqDQgdpjTZgICg7iVhaZwijbiiOLLgBM2hxkuVt2h6ZPDa2O"
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-09-20T21:00:00-04:00",
+      "end": "2026-09-20T22:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-09-20T22:00:00-04:00",
+      "end": "2026-09-21T06:00:00-04:00",
+      "allDay": false,
+      "location": "600 W 113th St, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-09-21T00:00:00",
+      "end": "2026-09-22T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-21T06:00:00-04:00",
+      "end": "2026-09-21T06:15:00-04:00",
+      "allDay": false,
+      "location": "600 W 113th St, New York, NY 10025, USA"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-09-21T06:15:00-04:00",
+      "end": "2026-09-21T07:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-09-21T07:30:00-04:00",
+      "end": "2026-09-21T08:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-21T08:00:00-04:00",
+      "end": "2026-09-21T08:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to lab",
+      "start": "2026-09-21T08:30:00-04:00",
+      "end": "2026-09-21T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara Lab",
+      "start": "2026-09-21T09:00:00-04:00",
+      "end": "2026-09-21T11:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-09-21T11:45:00-04:00",
+      "end": "2026-09-21T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara Lab",
+      "start": "2026-09-21T12:45:00-04:00",
+      "end": "2026-09-21T17:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-09-21T17:00:00-04:00",
+      "end": "2026-09-21T18:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Office Hour",
+      "start": "2026-09-21T18:00:00-04:00",
+      "end": "2026-09-21T19:00:00-04:00",
+      "allDay": false,
+      "location": "Mudd 343"
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-09-21T19:00:00-04:00",
+      "end": "2026-09-21T20:00:00-04:00",
+      "allDay": false,
+      "location": null
     }
   ],
   "tasks": [
