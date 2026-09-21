@@ -1,48 +1,6 @@
 {
-  "generated_at": "2026-09-20T23:23:18.959Z",
+  "generated_at": "2026-09-21T01:24:30.933Z",
   "events": [
-    {
-      "title": "Lydia Martinez Sepulveda's birthday",
-      "start": "2026-09-18T00:00:00",
-      "end": "2026-09-19T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Office",
-      "start": "2026-09-18T00:00:00",
-      "end": "2026-09-19T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "CMI Mentor Training (Event: 5:30-7:30pm)",
-      "start": "2026-09-18T16:45:00-04:00",
-      "end": "2026-09-18T20:15:00-04:00",
-      "allDay": false,
-      "location": "Lerner 555"
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-18T20:15:00-04:00",
-      "end": "2026-09-18T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-09-18T21:00:00-04:00",
-      "end": "2026-09-18T22:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-09-18T22:00:00-04:00",
-      "end": "2026-09-19T06:00:00-04:00",
-      "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
-    },
     {
       "title": "Faisal Patel's birthday",
       "start": "2026-09-19T00:00:00",
@@ -55,62 +13,6 @@
       "start": "2026-09-19T00:00:00",
       "end": "2026-09-20T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-19T06:00:00-04:00",
-      "end": "2026-09-19T06:15:00-04:00",
-      "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-19T06:15:00-04:00",
-      "end": "2026-09-19T08:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Gym",
-      "start": "2026-09-19T08:00:00-04:00",
-      "end": "2026-09-19T09:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-19T09:30:00-04:00",
-      "end": "2026-09-19T11:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "CMI - Choose Mentees",
-      "start": "2026-09-19T11:30:00-04:00",
-      "end": "2026-09-19T12:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-09-19T12:30:00-04:00",
-      "end": "2026-09-19T14:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-19T14:00:00-04:00",
-      "end": "2026-09-19T18:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Albaraa & Love Dinner",
-      "start": "2026-09-19T18:00:00-04:00",
-      "end": "2026-09-19T19:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -292,6 +194,104 @@
       "title": "Dinner",
       "start": "2026-09-21T19:00:00-04:00",
       "end": "2026-09-21T20:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-09-21T21:00:00-04:00",
+      "end": "2026-09-21T22:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-09-21T22:00:00-04:00",
+      "end": "2026-09-22T06:00:00-04:00",
+      "allDay": false,
+      "location": "600 W 113th St, New York, NY 10025, USA"
+    },
+    {
+      "title": "Jovany Perez's birthday",
+      "start": "2026-09-22T00:00:00",
+      "end": "2026-09-23T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Office",
+      "start": "2026-09-22T00:00:00",
+      "end": "2026-09-23T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-22T06:00:00-04:00",
+      "end": "2026-09-22T06:15:00-04:00",
+      "allDay": false,
+      "location": "600 W 113th St, New York, NY 10025, USA"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-09-22T06:15:00-04:00",
+      "end": "2026-09-22T07:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Run",
+      "start": "2026-09-22T07:30:00-04:00",
+      "end": "2026-09-22T08:30:00-04:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-09-22T08:30:00-04:00",
+      "end": "2026-09-22T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-22T09:00:00-04:00",
+      "end": "2026-09-22T09:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-09-22T09:45:00-04:00",
+      "end": "2026-09-22T11:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-09-22T11:45:00-04:00",
+      "end": "2026-09-22T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-09-22T12:45:00-04:00",
+      "end": "2026-09-22T18:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-09-22T18:45:00-04:00",
+      "end": "2026-09-22T19:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "SDN - Group Meeting",
+      "start": "2026-09-22T19:30:00-04:00",
+      "end": "2026-09-22T21:00:00-04:00",
       "allDay": false,
       "location": null
     }
