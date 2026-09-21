@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T13:43:59.012Z",
+  "generated_at": "2026-09-21T18:55:41.191Z",
   "events": [
     {
       "title": "Faisal Patel's birthday",
@@ -27,14 +27,14 @@
       "start": "2026-09-19T21:00:00-04:00",
       "end": "2026-09-19T22:00:00-04:00",
       "allDay": false,
-      "location": null
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
     },
     {
       "title": "Sleep",
       "start": "2026-09-19T22:00:00-04:00",
       "end": "2026-09-20T06:00:00-04:00",
       "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
     },
     {
       "title": "Home",
@@ -48,7 +48,7 @@
       "start": "2026-09-20T06:00:00-04:00",
       "end": "2026-09-20T06:15:00-04:00",
       "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
+      "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
       "title": "Work",
@@ -132,14 +132,14 @@
       "start": "2026-09-20T21:00:00-04:00",
       "end": "2026-09-20T22:00:00-04:00",
       "allDay": false,
-      "location": null
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
     },
     {
       "title": "Sleep",
       "start": "2026-09-20T22:00:00-04:00",
       "end": "2026-09-21T06:00:00-04:00",
       "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
     },
     {
       "title": "Office",
@@ -153,14 +153,14 @@
       "start": "2026-09-21T06:00:00-04:00",
       "end": "2026-09-21T07:00:00-04:00",
       "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
+      "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
       "title": "Gym",
       "start": "2026-09-21T07:00:00-04:00",
       "end": "2026-09-21T08:15:00-04:00",
       "allDay": false,
-      "location": null
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
     },
     {
       "title": "Breakfast",
@@ -177,6 +177,13 @@
       "location": null
     },
     {
+      "title": "Work",
+      "start": "2026-09-21T09:15:00-04:00",
+      "end": "2026-09-21T11:45:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr"
+    },
+    {
       "title": "Lunch",
       "start": "2026-09-21T11:45:00-04:00",
       "end": "2026-09-21T12:45:00-04:00",
@@ -184,7 +191,28 @@
       "location": null
     },
     {
-      "title": "Office Hour",
+      "title": "Work",
+      "start": "2026-09-21T12:45:00-04:00",
+      "end": "2026-09-21T15:00:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr"
+    },
+    {
+      "title": "SBM - Office Hour",
+      "start": "2026-09-21T15:00:00-04:00",
+      "end": "2026-09-21T16:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Work",
+      "start": "2026-09-21T16:00:00-04:00",
+      "end": "2026-09-21T18:00:00-04:00",
+      "allDay": false,
+      "location": "Mudd"
+    },
+    {
+      "title": "BST - TA - Office Hour",
       "start": "2026-09-21T18:00:00-04:00",
       "end": "2026-09-21T19:00:00-04:00",
       "allDay": false,
@@ -202,14 +230,14 @@
       "start": "2026-09-21T21:00:00-04:00",
       "end": "2026-09-21T22:00:00-04:00",
       "allDay": false,
-      "location": null
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
     },
     {
       "title": "Sleep",
       "start": "2026-09-21T22:00:00-04:00",
       "end": "2026-09-22T06:00:00-04:00",
       "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
     },
     {
       "title": "Jovany Perez's birthday",
@@ -230,14 +258,14 @@
       "start": "2026-09-22T06:00:00-04:00",
       "end": "2026-09-22T06:15:00-04:00",
       "allDay": false,
-      "location": "600 W 113th St, New York, NY 10025, USA"
+      "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
       "title": "Gym",
       "start": "2026-09-22T06:15:00-04:00",
       "end": "2026-09-22T07:30:00-04:00",
       "allDay": false,
-      "location": null
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
     },
     {
       "title": "Run",
