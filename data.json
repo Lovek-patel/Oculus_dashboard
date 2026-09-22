@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:57:46.295Z",
+  "generated_at": "2026-09-22T16:47:38.830Z",
   "events": [
     {
       "title": "Home",
@@ -223,7 +223,7 @@
       "start": "2026-09-22T19:30:00-04:00",
       "end": "2026-09-22T21:00:00-04:00",
       "allDay": false,
-      "location": null
+      "location": "River Hall, 628 W 114th St, New York, NY 10025, USA"
     },
     {
       "title": "Bed Time Routine",
