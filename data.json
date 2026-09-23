@@ -1,123 +1,11 @@
 {
-  "generated_at": "2026-09-22T22:57:51.460Z",
+  "generated_at": "2026-09-23T01:24:09.385Z",
   "events": [
-    {
-      "title": "Home",
-      "start": "2026-09-20T00:00:00",
-      "end": "2026-09-21T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Tutor",
-      "start": "2026-09-20T19:45:00-04:00",
-      "end": "2026-09-20T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Preply lesson - Xiaomin Q.",
-      "start": "2026-09-20T20:00:00-04:00",
-      "end": "2026-09-20T20:50:00-04:00",
-      "allDay": false,
-      "location": "https://preply.com/edu/chinese/classroom-v2/8331369?utm_source=email_calendar&sig=HqDQgdpjTZgICg7iVhaZwijbiiOLLgBM2hxkuVt2h6ZPDa2O"
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-09-20T21:00:00-04:00",
-      "end": "2026-09-20T22:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-09-20T22:00:00-04:00",
-      "end": "2026-09-21T06:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-09-21T00:00:00",
       "end": "2026-09-22T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-21T06:00:00-04:00",
-      "end": "2026-09-21T07:00:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-09-21T07:00:00-04:00",
-      "end": "2026-09-21T08:15:00-04:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-09-21T08:15:00-04:00",
-      "end": "2026-09-21T08:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-21T08:45:00-04:00",
-      "end": "2026-09-21T09:15:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-21T09:15:00-04:00",
-      "end": "2026-09-21T11:45:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr"
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-09-21T11:45:00-04:00",
-      "end": "2026-09-21T12:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-21T12:45:00-04:00",
-      "end": "2026-09-21T15:00:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr"
-    },
-    {
-      "title": "SBM - Office Hour",
-      "start": "2026-09-21T15:00:00-04:00",
-      "end": "2026-09-21T16:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-21T16:00:00-04:00",
-      "end": "2026-09-21T18:00:00-04:00",
-      "allDay": false,
-      "location": "Mudd"
-    },
-    {
-      "title": "BST - TA - Office Hour",
-      "start": "2026-09-21T18:00:00-04:00",
-      "end": "2026-09-21T19:00:00-04:00",
-      "allDay": false,
-      "location": "Mudd 343"
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-09-21T19:00:00-04:00",
-      "end": "2026-09-21T20:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -320,6 +208,97 @@
       "title": "Dinner",
       "start": "2026-09-23T19:00:00-04:00",
       "end": "2026-09-23T20:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Tutor",
+      "start": "2026-09-23T20:00:00-04:00",
+      "end": "2026-09-23T21:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-09-23T21:00:00-04:00",
+      "end": "2026-09-23T22:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-09-23T22:00:00-04:00",
+      "end": "2026-09-24T06:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-09-24T00:00:00",
+      "end": "2026-09-25T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-24T06:00:00-04:00",
+      "end": "2026-09-24T06:15:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-09-24T06:15:00-04:00",
+      "end": "2026-09-24T07:30:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Run",
+      "start": "2026-09-24T07:30:00-04:00",
+      "end": "2026-09-24T08:30:00-04:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-09-24T08:30:00-04:00",
+      "end": "2026-09-24T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-24T09:00:00-04:00",
+      "end": "2026-09-24T09:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-09-24T09:45:00-04:00",
+      "end": "2026-09-24T11:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-09-24T11:45:00-04:00",
+      "end": "2026-09-24T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-09-24T12:45:00-04:00",
+      "end": "2026-09-24T16:15:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "30 min with Love (Aniqa Delwara)",
+      "start": "2026-09-24T18:00:00-04:00",
+      "end": "2026-09-24T18:30:00-04:00",
       "allDay": false,
       "location": null
     }
