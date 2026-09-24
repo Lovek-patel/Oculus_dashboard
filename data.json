@@ -1,34 +1,6 @@
 {
-  "generated_at": "2026-09-23T22:54:08.508Z",
+  "generated_at": "2026-09-24T01:13:30.175Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-09-21T00:00:00",
-      "end": "2026-09-22T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-21T20:00:00-04:00",
-      "end": "2026-09-21T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-09-21T21:00:00-04:00",
-      "end": "2026-09-21T22:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-09-21T22:00:00-04:00",
-      "end": "2026-09-22T06:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Jovany Perez's birthday",
       "start": "2026-09-22T00:00:00",
@@ -42,76 +14,6 @@
       "end": "2026-09-23T23:59:59",
       "allDay": true,
       "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-22T06:00:00-04:00",
-      "end": "2026-09-22T06:15:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-09-22T06:15:00-04:00",
-      "end": "2026-09-22T07:30:00-04:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Run",
-      "start": "2026-09-22T07:30:00-04:00",
-      "end": "2026-09-22T08:30:00-04:00",
-      "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-09-22T08:30:00-04:00",
-      "end": "2026-09-22T09:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-22T09:00:00-04:00",
-      "end": "2026-09-22T09:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-09-22T09:45:00-04:00",
-      "end": "2026-09-22T11:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-09-22T11:45:00-04:00",
-      "end": "2026-09-22T12:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-09-22T12:45:00-04:00",
-      "end": "2026-09-22T16:15:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-22T16:15:00-04:00",
-      "end": "2026-09-22T17:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-09-22T17:30:00-04:00",
-      "end": "2026-09-22T18:30:00-04:00",
-      "allDay": false,
-      "location": "Ferris Booth Commons, 2920 Broadway, New York, NY 10027, USA"
     },
     {
       "title": "SDN - Group Meeting",
@@ -301,6 +203,104 @@
       "end": "2026-09-24T18:30:00-04:00",
       "allDay": false,
       "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-09-24T21:00:00-04:00",
+      "end": "2026-09-24T22:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-09-24T22:00:00-04:00",
+      "end": "2026-09-25T06:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-09-25T00:00:00",
+      "end": "2026-09-26T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-25T06:00:00-04:00",
+      "end": "2026-09-25T06:15:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-09-25T06:15:00-04:00",
+      "end": "2026-09-25T07:30:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-09-25T07:30:00-04:00",
+      "end": "2026-09-25T08:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-25T08:00:00-04:00",
+      "end": "2026-09-25T08:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to lab",
+      "start": "2026-09-25T08:30:00-04:00",
+      "end": "2026-09-25T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "CMI Weekly Chair Meetings",
+      "start": "2026-09-25T11:00:00-04:00",
+      "end": "2026-09-25T12:00:00-04:00",
+      "allDay": false,
+      "location": "Lerner 510K"
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-09-25T11:45:00-04:00",
+      "end": "2026-09-25T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dr. Hilda C. Heine, President of the Republic of the Marshall Islands",
+      "start": "2026-09-25T12:00:00-04:00",
+      "end": "2026-09-25T13:00:00-04:00",
+      "allDay": false,
+      "location": "Low Memorial Library"
+    },
+    {
+      "title": "José Manuel Restrepo, Vice President of the Republic of Colombia",
+      "start": "2026-09-25T15:00:00-04:00",
+      "end": "2026-09-25T16:00:00-04:00",
+      "allDay": false,
+      "location": "Low Memorial Library"
+    },
+    {
+      "title": "Nutritionist",
+      "start": "2026-09-25T15:30:00-04:00",
+      "end": "2026-09-25T16:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "CMI Kickoff (Event: 6:30-8:30pm)",
+      "start": "2026-09-25T17:30:00-04:00",
+      "end": "2026-09-25T21:30:00-04:00",
+      "allDay": false,
+      "location": "Lerner Auditorium"
     }
   ],
   "tasks": [
