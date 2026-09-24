@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:55:33.455Z",
+  "generated_at": "2026-09-24T16:46:53.360Z",
   "events": [
     {
       "title": "Jovany Perez's birthday",
@@ -304,6 +304,66 @@
     }
   ],
   "tasks": [
+    {
+      "title": "(untitled)",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "VA for AHM",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Paper for AHM",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Cad model for robot (detailed)",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Finish Website",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Work on EMB Paper",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Pick Microbe",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Make PCB",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Finish AHM readings",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "do CBE homework",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "grade homeworks",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Review Ideas and answer questions",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
     {
       "title": "Paul daisy soros essay ideas",
       "done": false,
