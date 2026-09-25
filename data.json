@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:14:59.294Z",
+  "generated_at": "2026-09-25T23:58:11.254Z",
   "events": [
     {
       "title": "Office",
@@ -272,11 +272,6 @@
     },
     {
       "title": "do CBE homework",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "Finish AHM readings",
       "done": false,
       "due": "2026-09-26T00:00:00.000Z"
     },
