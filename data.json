@@ -1,116 +1,11 @@
 {
-  "generated_at": "2026-09-24T23:18:50.014Z",
+  "generated_at": "2026-09-25T01:45:24.888Z",
   "events": [
-    {
-      "title": "Jovany Perez's birthday",
-      "start": "2026-09-22T00:00:00",
-      "end": "2026-09-23T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Office",
-      "start": "2026-09-22T00:00:00",
-      "end": "2026-09-23T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "SDN - Group Meeting",
-      "start": "2026-09-22T19:30:00-04:00",
-      "end": "2026-09-22T21:00:00-04:00",
-      "allDay": false,
-      "location": "River Hall, 628 W 114th St, New York, NY 10025, USA"
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-09-22T21:00:00-04:00",
-      "end": "2026-09-22T22:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-09-22T22:00:00-04:00",
-      "end": "2026-09-23T06:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-09-23T00:00:00",
       "end": "2026-09-24T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-23T06:00:00-04:00",
-      "end": "2026-09-23T06:15:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-09-23T06:15:00-04:00",
-      "end": "2026-09-23T07:30:00-04:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-09-23T07:30:00-04:00",
-      "end": "2026-09-23T08:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-23T08:00:00-04:00",
-      "end": "2026-09-23T08:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to lab",
-      "start": "2026-09-23T08:30:00-04:00",
-      "end": "2026-09-23T09:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara - PR Meeting",
-      "start": "2026-09-23T09:00:00-04:00",
-      "end": "2026-09-23T10:00:00-04:00",
-      "allDay": false,
-      "location": "HICC 1010"
-    },
-    {
-      "title": "Commute to Campus",
-      "start": "2026-09-23T10:00:00-04:00",
-      "end": "2026-09-23T10:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "SDN - Meeting - LNH",
-      "start": "2026-09-23T10:30:00-04:00",
-      "end": "2026-09-23T11:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-09-23T11:30:00-04:00",
-      "end": "2026-09-23T19:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-09-23T19:00:00-04:00",
-      "end": "2026-09-23T20:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -301,11 +196,74 @@
       "end": "2026-09-25T21:30:00-04:00",
       "allDay": false,
       "location": "Lerner Auditorium"
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-09-25T21:30:00-04:00",
+      "end": "2026-09-25T22:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-09-25T22:00:00-04:00",
+      "end": "2026-09-26T06:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Home",
+      "start": "2026-09-26T00:00:00",
+      "end": "2026-09-27T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-26T06:00:00-04:00",
+      "end": "2026-09-26T06:15:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-09-26T08:00:00-04:00",
+      "end": "2026-09-26T09:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Run",
+      "start": "2026-09-26T09:30:00-04:00",
+      "end": "2026-09-26T10:30:00-04:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Love / Becca Planning",
+      "start": "2026-09-26T10:00:00-04:00",
+      "end": "2026-09-26T11:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-09-26T11:45:00-04:00",
+      "end": "2026-09-26T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-09-26T19:00:00-04:00",
+      "end": "2026-09-26T20:00:00-04:00",
+      "allDay": false,
+      "location": null
     }
   ],
   "tasks": [
     {
-      "title": "EMB Homework",
+      "title": "Make PCB",
       "done": false,
       "due": "2026-09-26T00:00:00.000Z"
     },
@@ -315,7 +273,52 @@
       "due": "2026-09-26T00:00:00.000Z"
     },
     {
-      "title": "VA for AHM",
+      "title": "Put up ceiling/wall stars",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Finish AHM readings",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Transfer backpack",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Decide room decoration plan",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Finish cleaning and sorting books",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Clean area next to desk",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Clean desk surface & setup",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Paul daisy soros essay ideas",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "LOC Slides",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "EMB Homework",
       "done": false,
       "due": "2026-09-26T00:00:00.000Z"
     },
@@ -335,21 +338,6 @@
       "due": "2026-09-26T00:00:00.000Z"
     },
     {
-      "title": "Work on EMB Paper",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "Make PCB",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "Finish AHM readings",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
       "title": "do CBE homework",
       "done": false,
       "due": "2026-09-26T00:00:00.000Z"
@@ -358,11 +346,6 @@
       "title": "grade homeworks",
       "done": false,
       "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "Paul daisy soros essay ideas",
-      "done": false,
-      "due": "2026-09-19T00:00:00.000Z"
     },
     {
       "title": "BST - Write HW 9 Solution & Rubric",
@@ -403,36 +386,6 @@
       "title": "TA - BST - Final",
       "done": false,
       "due": "2026-12-17T00:00:00.000Z"
-    },
-    {
-      "title": "Transfer backpack",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Decide room decoration plan",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Put up ceiling/wall stars",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Finish cleaning and sorting books",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Clean area next to desk",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
-    },
-    {
-      "title": "Clean desk surface & setup",
-      "done": false,
-      "due": "2026-09-13T00:00:00.000Z"
     },
     {
       "title": "Cancel Gemini Subscription",
