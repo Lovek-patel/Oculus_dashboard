@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:53:02.798Z",
+  "generated_at": "2026-09-25T17:49:06.463Z",
   "events": [
     {
       "title": "Office",
@@ -177,13 +177,6 @@
       "location": null
     },
     {
-      "title": "José Manuel Restrepo, Vice President of the Republic of Colombia",
-      "start": "2026-09-25T15:00:00-04:00",
-      "end": "2026-09-25T16:00:00-04:00",
-      "allDay": false,
-      "location": "Low Memorial Library"
-    },
-    {
       "title": "Nutritionist",
       "start": "2026-09-25T15:30:00-04:00",
       "end": "2026-09-25T16:00:00-04:00",
@@ -263,52 +256,12 @@
   ],
   "tasks": [
     {
-      "title": "Make PCB",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "Review Ideas and answer questions SDN",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "Put up ceiling/wall stars",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "Finish AHM readings",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "Transfer backpack",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "Decide room decoration plan",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "Finish cleaning and sorting books",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "Clean area next to desk",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "Clean desk surface & setup",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
       "title": "Paul daisy soros essay ideas",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Send Nuttida Stuff",
       "done": false,
       "due": "2026-09-26T00:00:00.000Z"
     },
@@ -318,7 +271,62 @@
       "due": "2026-09-26T00:00:00.000Z"
     },
     {
+      "title": "grade homeworks",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Review Ideas and answer questions SDN",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "do CBE homework",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Finish AHM readings",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Clean desk surface & setup",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Clean area next to desk",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Finish cleaning and sorting books",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Put up ceiling/wall stars",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Decide room decoration plan",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Transfer backpack",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
       "title": "EMB Homework",
+      "done": false,
+      "due": "2026-09-26T00:00:00.000Z"
+    },
+    {
+      "title": "Make PCB",
       "done": false,
       "due": "2026-09-26T00:00:00.000Z"
     },
@@ -334,16 +342,6 @@
     },
     {
       "title": "Finish Website",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "do CBE homework",
-      "done": false,
-      "due": "2026-09-26T00:00:00.000Z"
-    },
-    {
-      "title": "grade homeworks",
       "done": false,
       "due": "2026-09-26T00:00:00.000Z"
     },
