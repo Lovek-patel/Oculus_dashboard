@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:41:02.658Z",
+  "generated_at": "2026-09-28T16:00:53.840Z",
   "events": [
     {
       "title": "Home",
@@ -109,16 +109,9 @@
     {
       "title": "Get Ready",
       "start": "2026-09-28T06:00:00-04:00",
-      "end": "2026-09-28T06:15:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-09-28T06:15:00-04:00",
       "end": "2026-09-28T07:30:00-04:00",
       "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+      "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
       "title": "Breakfast",
@@ -144,6 +137,13 @@
     {
       "title": "Sugahara Lab",
       "start": "2026-09-28T09:00:00-04:00",
+      "end": "2026-09-28T10:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-09-28T10:45:00-04:00",
       "end": "2026-09-28T11:45:00-04:00",
       "allDay": false,
       "location": null
@@ -156,18 +156,18 @@
       "location": null
     },
     {
-      "title": "Sugahara Lab",
+      "title": "Work",
       "start": "2026-09-28T12:45:00-04:00",
-      "end": "2026-09-28T16:00:00-04:00",
+      "end": "2026-09-28T15:00:00-04:00",
       "allDay": false,
       "location": null
     },
     {
-      "title": "Commute to Campus",
-      "start": "2026-09-28T16:00:00-04:00",
+      "title": "Gym",
+      "start": "2026-09-28T15:00:00-04:00",
       "end": "2026-09-28T17:00:00-04:00",
       "allDay": false,
-      "location": null
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
     },
     {
       "title": "NSF GRFP essay meeting #1",
@@ -194,6 +194,13 @@
       "title": "Dinner",
       "start": "2026-09-28T19:00:00-04:00",
       "end": "2026-09-28T20:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Work - SDN",
+      "start": "2026-09-28T20:00:00-04:00",
+      "end": "2026-09-28T21:00:00-04:00",
       "allDay": false,
       "location": null
     },
