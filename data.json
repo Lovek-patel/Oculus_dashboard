@@ -1,81 +1,11 @@
 {
-  "generated_at": "2026-09-28T22:02:18.544Z",
+  "generated_at": "2026-09-29T01:58:50.982Z",
   "events": [
-    {
-      "title": "Home",
-      "start": "2026-09-26T00:00:00",
-      "end": "2026-09-27T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "TV Time",
-      "start": "2026-09-26T19:00:00-04:00",
-      "end": "2026-09-26T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-09-26T21:00:00-04:00",
-      "end": "2026-09-26T22:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-09-26T22:00:00-04:00",
-      "end": "2026-09-27T06:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Home",
       "start": "2026-09-27T00:00:00",
       "end": "2026-09-28T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-27T06:00:00-04:00",
-      "end": "2026-09-27T06:15:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-27T06:15:00-04:00",
-      "end": "2026-09-27T12:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-09-27T12:00:00-04:00",
-      "end": "2026-09-27T13:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-09-27T13:00:00-04:00",
-      "end": "2026-09-27T17:15:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Gym",
-      "start": "2026-09-27T17:15:00-04:00",
-      "end": "2026-09-27T18:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-09-27T18:45:00-04:00",
-      "end": "2026-09-27T19:45:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -287,6 +217,97 @@
       "end": "2026-09-29T20:00:00-04:00",
       "allDay": false,
       "location": "G16, Business & Economics Library"
+    },
+    {
+      "title": "QB - Training",
+      "start": "2026-09-29T20:00:00-04:00",
+      "end": "2026-09-29T21:00:00-04:00",
+      "allDay": false,
+      "location": "https://urldefense.com/v3/__https://mx.technolutions.net/ss/c/u001.cpQnkll3XXHbQrBNB1xm0B24FOEdfznhUvRjJMd5Aeley0gI64X9dmM4iM7L5522ERQeXhexjCuBB1xU1Wv8RUM7GfI2cB9MrBWGZltCivD__uGh0tkROL8o8WWn9hby/4ue/Qpv8HIlGQ96hAmWXW8qm_w/h1/h001.f2Mq2m2uLGm43KfNlpYIqYvRhqIuGrKNtP0CmJQTxLE__;!!BDUfV1Et5lrpZQ!TV_XTDozFhEAGS0GjkiXW2v1kvx3t0SnY7tMTevGdSnkhT_46GxkCq3v8wFMCH2okZRQ5JtYp9XNaGEJtRItajPPjdo$"
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-09-29T21:00:00-04:00",
+      "end": "2026-09-29T22:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-09-29T22:00:00-04:00",
+      "end": "2026-09-30T06:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-09-30T00:00:00",
+      "end": "2026-10-01T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-30T06:00:00-04:00",
+      "end": "2026-09-30T06:15:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-09-30T06:15:00-04:00",
+      "end": "2026-09-30T07:30:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-09-30T07:30:00-04:00",
+      "end": "2026-09-30T08:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-09-30T08:00:00-04:00",
+      "end": "2026-09-30T08:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to lab",
+      "start": "2026-09-30T08:30:00-04:00",
+      "end": "2026-09-30T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara - PR Meeting",
+      "start": "2026-09-30T09:00:00-04:00",
+      "end": "2026-09-30T10:30:00-04:00",
+      "allDay": false,
+      "location": "HICC 1010"
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-09-30T10:30:00-04:00",
+      "end": "2026-09-30T11:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-09-30T11:30:00-04:00",
+      "end": "2026-09-30T19:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-09-30T19:00:00-04:00",
+      "end": "2026-09-30T20:00:00-04:00",
+      "allDay": false,
+      "location": null
     }
   ],
   "tasks": [
