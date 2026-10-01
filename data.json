@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:56:24.618Z",
+  "generated_at": "2026-10-01T18:45:55.833Z",
   "events": [
     {
       "title": "Office",
@@ -165,13 +165,13 @@
     {
       "title": "Classes",
       "start": "2026-10-01T09:45:00-04:00",
-      "end": "2026-10-01T11:45:00-04:00",
+      "end": "2026-10-01T11:30:00-04:00",
       "allDay": false,
       "location": null
     },
     {
-      "title": "Lunch",
-      "start": "2026-10-01T11:45:00-04:00",
+      "title": "TA - BST - Proctor",
+      "start": "2026-10-01T11:30:00-04:00",
       "end": "2026-10-01T12:45:00-04:00",
       "allDay": false,
       "location": null
@@ -290,8 +290,15 @@
     },
     {
       "title": "Dinner",
+      "start": "2026-10-02T18:00:00-04:00",
+      "end": "2026-10-02T19:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "SDN - Final Needs Debate",
       "start": "2026-10-02T19:00:00-04:00",
-      "end": "2026-10-02T20:00:00-04:00",
+      "end": "2026-10-02T21:00:00-04:00",
       "allDay": false,
       "location": null
     }
