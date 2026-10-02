@@ -1,102 +1,11 @@
 {
-  "generated_at": "2026-10-01T23:01:41.803Z",
+  "generated_at": "2026-10-02T02:16:38.674Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-09-29T00:00:00",
-      "end": "2026-09-30T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "QB - Training",
-      "start": "2026-09-29T20:00:00-04:00",
-      "end": "2026-09-29T21:00:00-04:00",
-      "allDay": false,
-      "location": "https://urldefense.com/v3/__https://mx.technolutions.net/ss/c/u001.cpQnkll3XXHbQrBNB1xm0B24FOEdfznhUvRjJMd5Aeley0gI64X9dmM4iM7L5522ERQeXhexjCuBB1xU1Wv8RUM7GfI2cB9MrBWGZltCivD__uGh0tkROL8o8WWn9hby/4ue/Qpv8HIlGQ96hAmWXW8qm_w/h1/h001.f2Mq2m2uLGm43KfNlpYIqYvRhqIuGrKNtP0CmJQTxLE__;!!BDUfV1Et5lrpZQ!TV_XTDozFhEAGS0GjkiXW2v1kvx3t0SnY7tMTevGdSnkhT_46GxkCq3v8wFMCH2okZRQ5JtYp9XNaGEJtRItajPPjdo$"
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-09-29T21:00:00-04:00",
-      "end": "2026-09-29T22:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-09-29T22:00:00-04:00",
-      "end": "2026-09-30T06:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-09-30T00:00:00",
       "end": "2026-10-01T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-30T06:00:00-04:00",
-      "end": "2026-09-30T06:15:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-09-30T06:15:00-04:00",
-      "end": "2026-09-30T07:30:00-04:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-09-30T07:30:00-04:00",
-      "end": "2026-09-30T08:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-09-30T08:00:00-04:00",
-      "end": "2026-09-30T08:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to lab",
-      "start": "2026-09-30T08:30:00-04:00",
-      "end": "2026-09-30T09:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara - PR Meeting",
-      "start": "2026-09-30T09:00:00-04:00",
-      "end": "2026-09-30T10:30:00-04:00",
-      "allDay": false,
-      "location": "HICC 1010"
-    },
-    {
-      "title": "Commute to Campus",
-      "start": "2026-09-30T10:30:00-04:00",
-      "end": "2026-09-30T11:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-09-30T11:30:00-04:00",
-      "end": "2026-09-30T19:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "SDN - Meeting",
-      "start": "2026-09-30T19:00:00-04:00",
-      "end": "2026-09-30T20:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -186,21 +95,28 @@
     {
       "title": "Work",
       "start": "2026-10-01T14:30:00-04:00",
-      "end": "2026-10-01T17:30:00-04:00",
+      "end": "2026-10-01T18:15:00-04:00",
       "allDay": false,
       "location": null
     },
     {
       "title": "Dinner",
-      "start": "2026-10-01T17:30:00-04:00",
-      "end": "2026-10-01T18:30:00-04:00",
+      "start": "2026-10-01T18:15:00-04:00",
+      "end": "2026-10-01T19:15:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Work",
+      "start": "2026-10-01T19:15:00-04:00",
+      "end": "2026-10-01T20:00:00-04:00",
       "allDay": false,
       "location": null
     },
     {
       "title": "30 min with Love (Ian Kim)",
       "start": "2026-10-01T20:00:00-04:00",
-      "end": "2026-10-01T20:30:00-04:00",
+      "end": "2026-10-01T21:00:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -289,6 +205,13 @@
       "location": null
     },
     {
+      "title": "CLR Support + Office Hours",
+      "start": "2026-10-02T15:00:00-04:00",
+      "end": "2026-10-02T18:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "CMI Match Reveal",
       "start": "2026-10-02T16:30:00-04:00",
       "end": "2026-10-02T18:00:00-04:00",
@@ -306,6 +229,69 @@
       "title": "SDN - Final Needs Debate",
       "start": "2026-10-02T19:00:00-04:00",
       "end": "2026-10-02T21:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-10-02T21:00:00-04:00",
+      "end": "2026-10-02T22:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-10-02T22:00:00-04:00",
+      "end": "2026-10-03T06:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Home",
+      "start": "2026-10-03T00:00:00",
+      "end": "2026-10-04T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-03T06:00:00-04:00",
+      "end": "2026-10-03T06:15:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-10-03T08:00:00-04:00",
+      "end": "2026-10-03T09:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Run",
+      "start": "2026-10-03T09:30:00-04:00",
+      "end": "2026-10-03T10:30:00-04:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Love / Becca Planning",
+      "start": "2026-10-03T10:00:00-04:00",
+      "end": "2026-10-03T11:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-10-03T11:45:00-04:00",
+      "end": "2026-10-03T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-10-03T19:00:00-04:00",
+      "end": "2026-10-03T20:00:00-04:00",
       "allDay": false,
       "location": null
     }
