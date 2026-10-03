@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T09:59:54.354Z",
+  "generated_at": "2026-10-03T14:40:51.797Z",
   "events": [
     {
       "title": "Office",
@@ -168,13 +168,6 @@
       "end": "2026-10-03T10:30:00-04:00",
       "allDay": false,
       "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
-    },
-    {
-      "title": "Love / Becca Planning",
-      "start": "2026-10-03T10:00:00-04:00",
-      "end": "2026-10-03T11:00:00-04:00",
-      "allDay": false,
-      "location": null
     },
     {
       "title": "Lunch",
