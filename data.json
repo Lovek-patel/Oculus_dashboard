@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:03:56.478Z",
+  "generated_at": "2026-10-04T05:55:25.954Z",
   "events": [
     {
       "title": "Office",
@@ -14,13 +14,6 @@
       "end": "2026-10-02T22:00:00-04:00",
       "allDay": false,
       "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-10-02T21:00:00-04:00",
-      "end": "2026-10-02T22:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
     },
     {
       "title": "Sleep",
@@ -44,6 +37,13 @@
       "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
+      "title": "Work",
+      "start": "2026-10-03T06:15:00-04:00",
+      "end": "2026-10-03T08:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "Gym",
       "start": "2026-10-03T08:00:00-04:00",
       "end": "2026-10-03T09:30:00-04:00",
@@ -58,9 +58,23 @@
       "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
     },
     {
+      "title": "Work",
+      "start": "2026-10-03T10:30:00-04:00",
+      "end": "2026-10-03T11:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "Lunch",
       "start": "2026-10-03T11:45:00-04:00",
       "end": "2026-10-03T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Work",
+      "start": "2026-10-03T12:45:00-04:00",
+      "end": "2026-10-03T17:00:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -75,6 +89,13 @@
       "title": "Dinner",
       "start": "2026-10-03T17:30:00-04:00",
       "end": "2026-10-03T18:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Work",
+      "start": "2026-10-03T18:30:00-04:00",
+      "end": "2026-10-03T21:00:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -292,16 +313,6 @@
     },
     {
       "title": "Detailed Cad",
-      "done": false,
-      "due": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "title": "EMB Homework 1",
-      "done": false,
-      "due": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "title": "Lab Notebook",
       "done": false,
       "due": "2026-10-02T00:00:00.000Z"
     },
