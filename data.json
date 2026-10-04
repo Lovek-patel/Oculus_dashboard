@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T11:59:17.927Z",
+  "generated_at": "2026-10-04T16:49:14.616Z",
   "events": [
     {
       "title": "Office",
@@ -128,20 +128,6 @@
       "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
-      "title": "Gym",
-      "start": "2026-10-04T08:00:00-04:00",
-      "end": "2026-10-04T09:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Run",
-      "start": "2026-10-04T09:30:00-04:00",
-      "end": "2026-10-04T10:30:00-04:00",
-      "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
-    },
-    {
       "title": "Lunch",
       "start": "2026-10-04T11:45:00-04:00",
       "end": "2026-10-04T12:45:00-04:00",
@@ -150,8 +136,15 @@
     },
     {
       "title": "SDN - Mini-Design",
+      "start": "2026-10-04T16:00:00-04:00",
+      "end": "2026-10-04T17:00:00-04:00",
+      "allDay": false,
+      "location": "Uris Library G16"
+    },
+    {
+      "title": "Gym",
       "start": "2026-10-04T17:00:00-04:00",
-      "end": "2026-10-04T18:00:00-04:00",
+      "end": "2026-10-04T18:30:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -277,32 +270,22 @@
   ],
   "tasks": [
     {
+      "title": "SDN Presentation",
+      "done": false,
+      "due": "2026-10-04T00:00:00.000Z"
+    },
+    {
+      "title": "Write Essay GRFP",
+      "done": false,
+      "due": "2026-10-04T00:00:00.000Z"
+    },
+    {
       "title": "SBM Watch Lecture and take notes",
       "done": false,
       "due": "2026-10-02T00:00:00.000Z"
     },
     {
-      "title": "Room Decor",
-      "done": false,
-      "due": null
-    },
-    {
-      "title": "Website",
-      "done": false,
-      "due": null
-    },
-    {
-      "title": "Fusion Print Leg",
-      "done": false,
-      "due": "2026-10-02T00:00:00.000Z"
-    },
-    {
       "title": "EMB Watch Lecture",
-      "done": false,
-      "due": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "title": "AHM Paper",
       "done": false,
       "due": "2026-10-02T00:00:00.000Z"
     },
@@ -315,6 +298,31 @@
       "title": "Detailed Cad",
       "done": false,
       "due": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "title": "Daily Digest",
+      "done": false,
+      "due": "2026-10-04T00:00:00.000Z"
+    },
+    {
+      "title": "Fusion Print Leg",
+      "done": false,
+      "due": "2026-10-05T00:00:00.000Z"
+    },
+    {
+      "title": "AHM Paper",
+      "done": false,
+      "due": "2026-10-02T00:00:00.000Z"
+    },
+    {
+      "title": "Room Decor",
+      "done": false,
+      "due": null
+    },
+    {
+      "title": "Website",
+      "done": false,
+      "due": null
     },
     {
       "title": "BST - Write HW 9 Solution & Rubric",
