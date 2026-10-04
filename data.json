@@ -1,123 +1,11 @@
 {
-  "generated_at": "2026-10-03T21:39:04.942Z",
+  "generated_at": "2026-10-04T00:03:56.478Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-10-01T00:00:00",
-      "end": "2026-10-02T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "30 min with Love (Ian Kim)",
-      "start": "2026-10-01T20:00:00-04:00",
-      "end": "2026-10-01T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-10-01T21:00:00-04:00",
-      "end": "2026-10-01T22:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-10-01T22:00:00-04:00",
-      "end": "2026-10-02T06:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-10-02T00:00:00",
       "end": "2026-10-03T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-02T06:00:00-04:00",
-      "end": "2026-10-02T06:15:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-10-02T07:30:00-04:00",
-      "end": "2026-10-02T08:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-02T08:00:00-04:00",
-      "end": "2026-10-02T08:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to lab",
-      "start": "2026-10-02T08:30:00-04:00",
-      "end": "2026-10-02T09:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara Lab",
-      "start": "2026-10-02T09:00:00-04:00",
-      "end": "2026-10-02T10:15:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to Campus",
-      "start": "2026-10-02T10:15:00-04:00",
-      "end": "2026-10-02T11:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "CMI Weekly Chair Meetings",
-      "start": "2026-10-02T11:00:00-04:00",
-      "end": "2026-10-02T12:00:00-04:00",
-      "allDay": false,
-      "location": "Lerner 510K"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-10-02T13:15:00-04:00",
-      "end": "2026-10-02T14:30:00-04:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "CLR Support + Office Hours",
-      "start": "2026-10-02T15:00:00-04:00",
-      "end": "2026-10-02T18:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-10-02T15:00:00-04:00",
-      "end": "2026-10-02T16:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "CMI Match Reveal",
-      "start": "2026-10-02T16:30:00-04:00",
-      "end": "2026-10-02T18:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-10-02T18:00:00-04:00",
-      "end": "2026-10-02T19:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -252,6 +140,118 @@
       "end": "2026-10-04T20:00:00-04:00",
       "allDay": false,
       "location": null
+    },
+    {
+      "title": "Tutor",
+      "start": "2026-10-04T20:00:00-04:00",
+      "end": "2026-10-04T21:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-10-04T21:00:00-04:00",
+      "end": "2026-10-04T22:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-10-04T22:00:00-04:00",
+      "end": "2026-10-05T06:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-10-05T00:00:00",
+      "end": "2026-10-06T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-05T06:00:00-04:00",
+      "end": "2026-10-05T06:15:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-10-05T06:15:00-04:00",
+      "end": "2026-10-05T07:30:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-10-05T07:30:00-04:00",
+      "end": "2026-10-05T08:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-05T08:00:00-04:00",
+      "end": "2026-10-05T08:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to lab",
+      "start": "2026-10-05T08:30:00-04:00",
+      "end": "2026-10-05T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara Lab",
+      "start": "2026-10-05T09:00:00-04:00",
+      "end": "2026-10-05T11:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-10-05T11:45:00-04:00",
+      "end": "2026-10-05T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara Lab",
+      "start": "2026-10-05T12:45:00-04:00",
+      "end": "2026-10-05T17:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "NSF GRFP essay meeting #2",
+      "start": "2026-10-05T17:00:00-04:00",
+      "end": "2026-10-05T17:45:00-04:00",
+      "allDay": false,
+      "location": "https://us06web.zoom.us/j/83976265935?pwd=4zSbWg154aCskkqR6vboiystPyndqB.1&jst=3"
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-10-05T17:00:00-04:00",
+      "end": "2026-10-05T18:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "BST - TA - Office Hour",
+      "start": "2026-10-05T18:00:00-04:00",
+      "end": "2026-10-05T19:00:00-04:00",
+      "allDay": false,
+      "location": "Mudd 343"
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-10-05T19:00:00-04:00",
+      "end": "2026-10-05T20:00:00-04:00",
+      "allDay": false,
+      "location": null
     }
   ],
   "tasks": [
@@ -304,16 +304,6 @@
       "title": "Lab Notebook",
       "done": false,
       "due": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "title": "Grade BST Exam",
-      "done": false,
-      "due": "2026-10-02T00:00:00.000Z"
-    },
-    {
-      "title": "Dinner today with someone",
-      "done": false,
-      "due": "2026-10-01T00:00:00.000Z"
     },
     {
       "title": "BST - Write HW 9 Solution & Rubric",
