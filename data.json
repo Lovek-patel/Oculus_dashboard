@@ -1,95 +1,11 @@
 {
-  "generated_at": "2026-10-04T22:52:53.441Z",
+  "generated_at": "2026-10-05T01:43:30.963Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-10-02T00:00:00",
-      "end": "2026-10-03T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "SDN - Final Needs Debate",
-      "start": "2026-10-02T20:00:00-04:00",
-      "end": "2026-10-02T22:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-10-02T22:00:00-04:00",
-      "end": "2026-10-03T06:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Home",
       "start": "2026-10-03T00:00:00",
       "end": "2026-10-04T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-03T06:00:00-04:00",
-      "end": "2026-10-03T06:15:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-03T06:15:00-04:00",
-      "end": "2026-10-03T08:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Gym",
-      "start": "2026-10-03T08:00:00-04:00",
-      "end": "2026-10-03T09:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Run",
-      "start": "2026-10-03T09:30:00-04:00",
-      "end": "2026-10-03T10:30:00-04:00",
-      "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-03T10:30:00-04:00",
-      "end": "2026-10-03T11:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-10-03T11:45:00-04:00",
-      "end": "2026-10-03T12:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-03T12:45:00-04:00",
-      "end": "2026-10-03T17:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Flu Shot",
-      "start": "2026-10-03T17:00:00-04:00",
-      "end": "2026-10-03T17:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-10-03T17:30:00-04:00",
-      "end": "2026-10-03T18:30:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -264,6 +180,83 @@
       "title": "Dinner",
       "start": "2026-10-05T19:00:00-04:00",
       "end": "2026-10-05T20:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-10-05T21:00:00-04:00",
+      "end": "2026-10-05T22:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-10-05T22:00:00-04:00",
+      "end": "2026-10-06T06:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-10-06T00:00:00",
+      "end": "2026-10-07T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-06T06:00:00-04:00",
+      "end": "2026-10-06T06:15:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-10-06T06:15:00-04:00",
+      "end": "2026-10-06T07:30:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Run",
+      "start": "2026-10-06T07:30:00-04:00",
+      "end": "2026-10-06T08:30:00-04:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-10-06T08:30:00-04:00",
+      "end": "2026-10-06T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-06T09:00:00-04:00",
+      "end": "2026-10-06T09:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-06T09:45:00-04:00",
+      "end": "2026-10-06T11:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-10-06T11:45:00-04:00",
+      "end": "2026-10-06T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-06T12:45:00-04:00",
+      "end": "2026-10-06T19:00:00-04:00",
       "allDay": false,
       "location": null
     }
