@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T16:25:40.723Z",
+  "generated_at": "2026-10-05T22:51:40.632Z",
   "events": [
     {
       "title": "Home",
@@ -156,11 +156,18 @@
       "location": null
     },
     {
+      "title": "Fw: Updated agenda for joint lab - only zoom meeting",
+      "start": "2026-10-05T13:00:00-04:00",
+      "end": "2026-10-05T14:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "NSF GRFP essay meeting #2",
       "start": "2026-10-05T17:00:00-04:00",
       "end": "2026-10-05T17:45:00-04:00",
       "allDay": false,
-      "location": "https://us06web.zoom.us/j/83976265935?pwd=4zSbWg154aCskkqR6vboiystPyndqB.1&jst=3"
+      "location": null
     },
     {
       "title": "Commute to Campus",
