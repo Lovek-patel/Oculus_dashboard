@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:43:13.188Z",
+  "generated_at": "2026-10-05T16:25:40.723Z",
   "events": [
     {
       "title": "Home",
@@ -262,16 +262,6 @@
     }
   ],
   "tasks": [
-    {
-      "title": "SDN Presentation",
-      "done": false,
-      "due": "2026-10-04T00:00:00.000Z"
-    },
-    {
-      "title": "Write Essay GRFP",
-      "done": false,
-      "due": "2026-10-04T00:00:00.000Z"
-    },
     {
       "title": "SBM Watch Lecture and take notes",
       "done": false,
