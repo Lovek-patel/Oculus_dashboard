@@ -1,130 +1,11 @@
 {
-  "generated_at": "2026-10-06T21:01:30.120Z",
+  "generated_at": "2026-10-07T00:43:39.893Z",
   "events": [
-    {
-      "title": "Home",
-      "start": "2026-10-04T00:00:00",
-      "end": "2026-10-05T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Tutor",
-      "start": "2026-10-04T20:00:00-04:00",
-      "end": "2026-10-04T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-10-04T21:00:00-04:00",
-      "end": "2026-10-04T22:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-10-04T22:00:00-04:00",
-      "end": "2026-10-05T06:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-10-05T00:00:00",
       "end": "2026-10-06T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-05T06:00:00-04:00",
-      "end": "2026-10-05T06:15:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-10-05T06:15:00-04:00",
-      "end": "2026-10-05T07:30:00-04:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-10-05T07:30:00-04:00",
-      "end": "2026-10-05T08:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-05T08:00:00-04:00",
-      "end": "2026-10-05T08:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to lab",
-      "start": "2026-10-05T08:30:00-04:00",
-      "end": "2026-10-05T09:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara Lab",
-      "start": "2026-10-05T09:00:00-04:00",
-      "end": "2026-10-05T11:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-10-05T11:45:00-04:00",
-      "end": "2026-10-05T12:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara Lab",
-      "start": "2026-10-05T12:45:00-04:00",
-      "end": "2026-10-05T17:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Fw: Updated agenda for joint lab - only zoom meeting",
-      "start": "2026-10-05T13:00:00-04:00",
-      "end": "2026-10-05T14:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "NSF GRFP essay meeting #2",
-      "start": "2026-10-05T17:00:00-04:00",
-      "end": "2026-10-05T17:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to Campus",
-      "start": "2026-10-05T17:00:00-04:00",
-      "end": "2026-10-05T18:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "BST - TA - Office Hour",
-      "start": "2026-10-05T18:00:00-04:00",
-      "end": "2026-10-05T19:00:00-04:00",
-      "allDay": false,
-      "location": "Mudd 343"
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-10-05T19:00:00-04:00",
-      "end": "2026-10-05T20:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -278,6 +159,90 @@
       "title": "Dinner",
       "start": "2026-10-07T19:00:00-04:00",
       "end": "2026-10-07T20:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Tutor",
+      "start": "2026-10-07T20:00:00-04:00",
+      "end": "2026-10-07T21:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-10-07T21:00:00-04:00",
+      "end": "2026-10-07T22:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-10-07T22:00:00-04:00",
+      "end": "2026-10-08T06:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-10-08T00:00:00",
+      "end": "2026-10-09T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-08T06:00:00-04:00",
+      "end": "2026-10-08T06:15:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-10-08T06:15:00-04:00",
+      "end": "2026-10-08T07:30:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Run",
+      "start": "2026-10-08T07:30:00-04:00",
+      "end": "2026-10-08T08:30:00-04:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-10-08T08:30:00-04:00",
+      "end": "2026-10-08T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-08T09:00:00-04:00",
+      "end": "2026-10-08T09:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-08T09:45:00-04:00",
+      "end": "2026-10-08T11:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-10-08T11:45:00-04:00",
+      "end": "2026-10-08T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-08T12:45:00-04:00",
+      "end": "2026-10-08T16:15:00-04:00",
       "allDay": false,
       "location": null
     }
