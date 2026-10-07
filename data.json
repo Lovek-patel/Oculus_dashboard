@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:58:11.611Z",
+  "generated_at": "2026-10-07T19:52:30.275Z",
   "events": [
     {
       "title": "Office",
@@ -249,6 +249,11 @@
   ],
   "tasks": [
     {
+      "title": "NSF Proposal",
+      "done": false,
+      "due": "2026-10-07T00:00:00.000Z"
+    },
+    {
       "title": "SBM Watch Lecture and take notes",
       "done": false,
       "due": "2026-10-02T00:00:00.000Z"
@@ -277,11 +282,6 @@
       "title": "BST - Grade HW 4",
       "done": false,
       "due": "2026-10-20T00:00:00.000Z"
-    },
-    {
-      "title": "BST - Grade HW 3",
-      "done": false,
-      "due": "2026-10-06T00:00:00.000Z"
     },
     {
       "title": "TA - BST - Midterm",
