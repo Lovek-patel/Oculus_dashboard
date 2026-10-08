@@ -1,81 +1,11 @@
 {
-  "generated_at": "2026-10-07T19:52:30.275Z",
+  "generated_at": "2026-10-08T00:03:34.029Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-10-05T00:00:00",
-      "end": "2026-10-06T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-05T20:00:00-04:00",
-      "end": "2026-10-05T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-10-05T21:00:00-04:00",
-      "end": "2026-10-05T22:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-10-05T22:00:00-04:00",
-      "end": "2026-10-06T06:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-10-06T00:00:00",
       "end": "2026-10-07T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-06T06:00:00-04:00",
-      "end": "2026-10-06T06:15:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-10-06T08:30:00-04:00",
-      "end": "2026-10-06T09:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-06T09:00:00-04:00",
-      "end": "2026-10-06T09:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-10-06T09:45:00-04:00",
-      "end": "2026-10-06T11:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-10-06T11:45:00-04:00",
-      "end": "2026-10-06T12:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-10-06T12:45:00-04:00",
-      "end": "2026-10-06T19:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -163,13 +93,6 @@
       "location": null
     },
     {
-      "title": "Tutor",
-      "start": "2026-10-07T20:00:00-04:00",
-      "end": "2026-10-07T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
       "title": "Bed Time Routine",
       "start": "2026-10-07T21:00:00-04:00",
       "end": "2026-10-07T22:00:00-04:00",
@@ -243,6 +166,111 @@
       "title": "Classes",
       "start": "2026-10-08T12:45:00-04:00",
       "end": "2026-10-08T16:15:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-10-08T21:00:00-04:00",
+      "end": "2026-10-08T22:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-10-08T22:00:00-04:00",
+      "end": "2026-10-09T06:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-10-09T00:00:00",
+      "end": "2026-10-10T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-09T06:00:00-04:00",
+      "end": "2026-10-09T06:15:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-10-09T06:15:00-04:00",
+      "end": "2026-10-09T07:30:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-10-09T07:30:00-04:00",
+      "end": "2026-10-09T08:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-09T08:00:00-04:00",
+      "end": "2026-10-09T08:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to lab",
+      "start": "2026-10-09T08:30:00-04:00",
+      "end": "2026-10-09T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara Lab",
+      "start": "2026-10-09T09:00:00-04:00",
+      "end": "2026-10-09T11:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "CMI Weekly Chair Meetings",
+      "start": "2026-10-09T11:00:00-04:00",
+      "end": "2026-10-09T12:00:00-04:00",
+      "allDay": false,
+      "location": "Lerner 510K"
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-10-09T11:45:00-04:00",
+      "end": "2026-10-09T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara Lab",
+      "start": "2026-10-09T12:45:00-04:00",
+      "end": "2026-10-09T16:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-10-09T16:00:00-04:00",
+      "end": "2026-10-09T17:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-10-09T17:00:00-04:00",
+      "end": "2026-10-09T19:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-10-09T19:00:00-04:00",
+      "end": "2026-10-09T20:00:00-04:00",
       "allDay": false,
       "location": null
     }
