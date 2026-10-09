@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T11:56:17.451Z",
+  "generated_at": "2026-10-09T18:13:00.085Z",
   "events": [
     {
       "title": "Office",
@@ -137,16 +137,9 @@
     {
       "title": "Get Ready",
       "start": "2026-10-09T06:00:00-04:00",
-      "end": "2026-10-09T06:15:00-04:00",
+      "end": "2026-10-09T07:30:00-04:00",
       "allDay": false,
       "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-10-09T07:15:00-04:00",
-      "end": "2026-10-09T08:30:00-04:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
     },
     {
       "title": "Breakfast",
@@ -172,7 +165,14 @@
     {
       "title": "Sugahara Lab",
       "start": "2026-10-09T09:00:00-04:00",
-      "end": "2026-10-09T11:45:00-04:00",
+      "end": "2026-10-09T10:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-10-09T10:00:00-04:00",
+      "end": "2026-10-09T11:00:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -184,22 +184,22 @@
       "location": "Lerner 510K"
     },
     {
+      "title": "Gym",
+      "start": "2026-10-09T12:00:00-04:00",
+      "end": "2026-10-09T13:15:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
       "title": "Lunch",
-      "start": "2026-10-09T11:45:00-04:00",
-      "end": "2026-10-09T12:45:00-04:00",
+      "start": "2026-10-09T13:15:00-04:00",
+      "end": "2026-10-09T14:15:00-04:00",
       "allDay": false,
       "location": null
     },
     {
-      "title": "Sugahara Lab",
-      "start": "2026-10-09T12:45:00-04:00",
-      "end": "2026-10-09T16:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to Campus",
-      "start": "2026-10-09T16:00:00-04:00",
+      "title": "SBM Lecture and HW",
+      "start": "2026-10-09T14:15:00-04:00",
       "end": "2026-10-09T17:00:00-04:00",
       "allDay": false,
       "location": null
@@ -219,15 +219,8 @@
       "location": null
     },
     {
-      "title": "Dinner",
-      "start": "2026-10-09T19:00:00-04:00",
-      "end": "2026-10-09T20:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
       "title": "Work",
-      "start": "2026-10-09T20:00:00-04:00",
+      "start": "2026-10-09T19:00:00-04:00",
       "end": "2026-10-09T21:00:00-04:00",
       "allDay": false,
       "location": null
@@ -298,9 +291,69 @@
   ],
   "tasks": [
     {
-      "title": "NSF Proposal",
+      "title": "PHD Applications",
       "done": false,
-      "due": "2026-10-07T00:00:00.000Z"
+      "due": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "CBE - Homework",
+      "done": false,
+      "due": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "Assemble leg",
+      "done": false,
+      "due": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "Print and collect leg",
+      "done": false,
+      "due": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "AHM VA",
+      "done": false,
+      "due": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "AHM verify paper",
+      "done": false,
+      "due": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "SDN - Killer Experiment",
+      "done": false,
+      "due": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "SDN - DRM",
+      "done": false,
+      "due": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "Senior Design Timeline",
+      "done": false,
+      "due": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "EBM Lecture (1)",
+      "done": false,
+      "due": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "EBM Lecture (2)",
+      "done": false,
+      "due": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "SBM Homework",
+      "done": false,
+      "due": "2026-10-09T00:00:00.000Z"
+    },
+    {
+      "title": "Watch SBM Lecture",
+      "done": false,
+      "due": "2026-10-09T00:00:00.000Z"
     },
     {
       "title": "SBM Watch Lecture and take notes",
