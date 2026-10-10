@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T18:53:27.829Z",
+  "generated_at": "2026-10-10T22:17:52.820Z",
   "events": [
     {
       "title": "Office",
@@ -273,26 +273,6 @@
       "due": "2026-10-09T00:00:00.000Z"
     },
     {
-      "title": "Assemble leg",
-      "done": false,
-      "due": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "title": "Print and collect leg",
-      "done": false,
-      "due": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "title": "AHM VA",
-      "done": false,
-      "due": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "title": "AHM verify paper",
-      "done": false,
-      "due": "2026-10-09T00:00:00.000Z"
-    },
-    {
       "title": "SDN - Killer Experiment",
       "done": false,
       "due": "2026-10-09T00:00:00.000Z"
@@ -308,16 +288,6 @@
       "due": "2026-10-09T00:00:00.000Z"
     },
     {
-      "title": "EBM Lecture (1)",
-      "done": false,
-      "due": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "title": "EBM Lecture (2)",
-      "done": false,
-      "due": "2026-10-09T00:00:00.000Z"
-    },
-    {
       "title": "SBM Homework",
       "done": false,
       "due": "2026-10-09T00:00:00.000Z"
@@ -326,11 +296,6 @@
       "title": "Watch SBM Lecture",
       "done": false,
       "due": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "title": "SBM Watch Lecture and take notes",
-      "done": false,
-      "due": "2026-10-02T00:00:00.000Z"
     },
     {
       "title": "Room Decor",
