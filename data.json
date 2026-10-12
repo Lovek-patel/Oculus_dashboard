@@ -1,88 +1,11 @@
 {
-  "generated_at": "2026-10-11T22:44:52.538Z",
+  "generated_at": "2026-10-12T01:50:12.561Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-10-09T00:00:00",
-      "end": "2026-10-10T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-09T19:00:00-04:00",
-      "end": "2026-10-09T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-10-09T21:00:00-04:00",
-      "end": "2026-10-09T22:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-10-09T22:00:00-04:00",
-      "end": "2026-10-10T06:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Home",
       "start": "2026-10-10T00:00:00",
       "end": "2026-10-11T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-10T06:00:00-04:00",
-      "end": "2026-10-10T08:00:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-10-10T08:00:00-04:00",
-      "end": "2026-10-10T09:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Run",
-      "start": "2026-10-10T09:30:00-04:00",
-      "end": "2026-10-10T10:30:00-04:00",
-      "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-10T10:30:00-04:00",
-      "end": "2026-10-10T13:15:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-10-10T13:15:00-04:00",
-      "end": "2026-10-10T14:15:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-10T14:15:00-04:00",
-      "end": "2026-10-10T19:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-10-10T19:00:00-04:00",
-      "end": "2026-10-10T20:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -273,6 +196,90 @@
       "end": "2026-10-12T20:00:00-04:00",
       "allDay": false,
       "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-10-12T21:00:00-04:00",
+      "end": "2026-10-12T22:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-10-12T22:00:00-04:00",
+      "end": "2026-10-13T06:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-10-13T00:00:00",
+      "end": "2026-10-14T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-13T06:00:00-04:00",
+      "end": "2026-10-13T06:15:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-10-13T06:15:00-04:00",
+      "end": "2026-10-13T07:30:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Run",
+      "start": "2026-10-13T07:30:00-04:00",
+      "end": "2026-10-13T07:45:00-04:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-13T07:45:00-04:00",
+      "end": "2026-10-13T08:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "CMI",
+      "start": "2026-10-13T08:30:00-04:00",
+      "end": "2026-10-13T09:00:00-04:00",
+      "allDay": false,
+      "location": "Lerner 555"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-10-13T09:00:00-04:00",
+      "end": "2026-10-13T09:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-13T09:45:00-04:00",
+      "end": "2026-10-13T11:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-10-13T11:45:00-04:00",
+      "end": "2026-10-13T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-13T12:45:00-04:00",
+      "end": "2026-10-13T19:00:00-04:00",
+      "allDay": false,
+      "location": null
     }
   ],
   "tasks": [
@@ -288,16 +295,6 @@
     },
     {
       "title": "SDN - Killer Experiment",
-      "done": false,
-      "due": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "title": "SDN - DRM",
-      "done": false,
-      "due": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "title": "Senior Design Timeline",
       "done": false,
       "due": "2026-10-09T00:00:00.000Z"
     },
