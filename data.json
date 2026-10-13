@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:17:35.584Z",
+  "generated_at": "2026-10-13T20:47:22.087Z",
   "events": [
     {
       "title": "Dhruv Patel's birthday",
@@ -298,11 +298,6 @@
   ],
   "tasks": [
     {
-      "title": "Check Finances",
-      "done": false,
-      "due": "2026-10-12T00:00:00.000Z"
-    },
-    {
       "title": "PHD Applications",
       "done": false,
       "due": "2026-10-09T00:00:00.000Z"
@@ -314,11 +309,6 @@
     },
     {
       "title": "SDN - Killer Experiment",
-      "done": false,
-      "due": "2026-10-09T00:00:00.000Z"
-    },
-    {
-      "title": "SBM Homework",
       "done": false,
       "due": "2026-10-09T00:00:00.000Z"
     },
