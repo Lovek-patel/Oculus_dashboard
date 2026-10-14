@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:25:40.571Z",
+  "generated_at": "2026-10-14T22:31:30.489Z",
   "events": [
     {
       "title": "Office",
@@ -270,19 +270,49 @@
   ],
   "tasks": [
     {
-      "title": "PHD Applications",
+      "title": "C14",
       "done": false,
-      "due": "2026-10-09T00:00:00.000Z"
+      "due": "2026-10-17T00:00:00.000Z"
     },
     {
-      "title": "CBE - Homework",
+      "title": "SBM exam - gather notes",
       "done": false,
-      "due": "2026-10-09T00:00:00.000Z"
+      "due": "2026-10-17T00:00:00.000Z"
     },
     {
-      "title": "SDN - Killer Experiment",
+      "title": "EMB exam",
       "done": false,
-      "due": "2026-10-09T00:00:00.000Z"
+      "due": "2026-10-17T00:00:00.000Z"
+    },
+    {
+      "title": "CBE cheat sheet/exam",
+      "done": false,
+      "due": "2026-10-17T00:00:00.000Z"
+    },
+    {
+      "title": "phd applications and fee waivers",
+      "done": false,
+      "due": "2026-10-17T00:00:00.000Z"
+    },
+    {
+      "title": "ndseg",
+      "done": false,
+      "due": "2026-10-17T00:00:00.000Z"
+    },
+    {
+      "title": "finish grfp",
+      "done": false,
+      "due": "2026-10-17T00:00:00.000Z"
+    },
+    {
+      "title": "sdn research tasks",
+      "done": false,
+      "due": "2026-10-17T00:00:00.000Z"
+    },
+    {
+      "title": "SDN killer experiments",
+      "done": false,
+      "due": "2026-10-17T00:00:00.000Z"
     },
     {
       "title": "Room Decor",
