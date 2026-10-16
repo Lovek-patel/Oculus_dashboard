@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:24:47.795Z",
+  "generated_at": "2026-10-16T21:34:08.098Z",
   "events": [
     {
       "title": "Office",
@@ -188,7 +188,7 @@
       "start": "2026-10-16T17:00:00-04:00",
       "end": "2026-10-16T17:45:00-04:00",
       "allDay": false,
-      "location": "https://us06web.zoom.us/j/86765980028?pwd=axGfx49LBlTvC8FiVNpKabbLuLGwge.1&jst=3"
+      "location": null
     },
     {
       "title": "Commute to Campus",
