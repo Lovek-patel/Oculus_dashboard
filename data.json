@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T16:48:22.598Z",
+  "generated_at": "2026-10-18T19:17:54.033Z",
   "events": [
     {
       "title": "Office",
@@ -349,16 +349,6 @@
       "due": "2026-10-18T00:00:00.000Z"
     },
     {
-      "title": "CBE cheat sheet/exam",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "SBM exam - gather notes",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
       "title": "phd applications and fee waivers",
       "done": false,
       "due": "2026-10-17T00:00:00.000Z"
@@ -370,11 +360,6 @@
     },
     {
       "title": "Add PhD application recommenders",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "Generate Solid Biomechanics notes",
       "done": false,
       "due": "2026-10-17T00:00:00.000Z"
     },
