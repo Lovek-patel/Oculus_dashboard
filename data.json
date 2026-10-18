@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T13:29:19.671Z",
+  "generated_at": "2026-10-18T16:48:22.598Z",
   "events": [
     {
       "title": "Office",
@@ -375,11 +375,6 @@
     },
     {
       "title": "Generate Solid Biomechanics notes",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "Create Cellular Bioengineering cheat sheet",
       "done": false,
       "due": "2026-10-17T00:00:00.000Z"
     },
