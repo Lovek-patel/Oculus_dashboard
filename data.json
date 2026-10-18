@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T09:27:38.212Z",
+  "generated_at": "2026-10-18T13:29:19.671Z",
   "events": [
     {
       "title": "Office",
@@ -128,6 +128,13 @@
       "location": null
     },
     {
+      "title": "Preply lesson - Xiaomin Q.",
+      "start": "2026-10-18T19:30:00-04:00",
+      "end": "2026-10-18T20:20:00-04:00",
+      "allDay": false,
+      "location": "https://preply.com/edu/chinese/classroom-v2/8331369?utm_source=email_calendar&sig=HqDQgdpjTZgICg7iVhaZwijbiiOLLgBM2hxkuVt2h6ZPDa2O"
+    },
+    {
       "title": "Tutor",
       "start": "2026-10-18T20:00:00-04:00",
       "end": "2026-10-18T21:00:00-04:00",
@@ -140,13 +147,6 @@
       "end": "2026-10-18T22:00:00-04:00",
       "allDay": false,
       "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Preply lesson - Xiaomin Q.",
-      "start": "2026-10-18T21:30:00-04:00",
-      "end": "2026-10-18T22:20:00-04:00",
-      "allDay": false,
-      "location": "https://preply.com/edu/chinese/classroom-v2/8331369?utm_source=email_calendar&sig=HqDQgdpjTZgICg7iVhaZwijbiiOLLgBM2hxkuVt2h6ZPDa2O"
     },
     {
       "title": "Sleep",
