@@ -1,67 +1,11 @@
 {
-  "generated_at": "2026-10-18T23:42:19.443Z",
+  "generated_at": "2026-10-19T01:48:15.878Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-10-16T00:00:00",
-      "end": "2026-10-17T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-10-16T20:00:00-04:00",
-      "end": "2026-10-16T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-10-16T21:00:00-04:00",
-      "end": "2026-10-16T22:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-10-16T22:00:00-04:00",
-      "end": "2026-10-17T06:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Home",
       "start": "2026-10-17T00:00:00",
       "end": "2026-10-18T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-17T06:00:00-04:00",
-      "end": "2026-10-17T12:00:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Co27 Financial Aid Workshop",
-      "start": "2026-10-17T12:00:00-04:00",
-      "end": "2026-10-17T13:30:00-04:00",
-      "allDay": false,
-      "location": "https://www.google.com/url?q=https://us02web.zoom.us/j/84149290941?jst%3D2&sa=D&source=calendar&ust=1792330875710391&usg=AOvVaw0SZia-clcW2jGBoA9vjK9x"
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-10-17T13:30:00-04:00",
-      "end": "2026-10-17T14:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-10-17T19:00:00-04:00",
-      "end": "2026-10-17T20:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -243,6 +187,83 @@
       "title": "Dinner",
       "start": "2026-10-19T19:00:00-04:00",
       "end": "2026-10-19T20:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-10-19T21:00:00-04:00",
+      "end": "2026-10-19T22:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-10-19T22:00:00-04:00",
+      "end": "2026-10-20T06:00:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-10-20T00:00:00",
+      "end": "2026-10-21T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-20T06:00:00-04:00",
+      "end": "2026-10-20T06:15:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-10-20T06:15:00-04:00",
+      "end": "2026-10-20T07:30:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Run",
+      "start": "2026-10-20T07:30:00-04:00",
+      "end": "2026-10-20T08:30:00-04:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-10-20T08:30:00-04:00",
+      "end": "2026-10-20T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-20T09:00:00-04:00",
+      "end": "2026-10-20T09:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-20T09:45:00-04:00",
+      "end": "2026-10-20T11:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-10-20T11:45:00-04:00",
+      "end": "2026-10-20T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-20T12:45:00-04:00",
+      "end": "2026-10-20T19:00:00-04:00",
       "allDay": false,
       "location": null
     }
