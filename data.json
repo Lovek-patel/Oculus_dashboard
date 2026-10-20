@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:26:06.945Z",
+  "generated_at": "2026-10-20T14:26:40.509Z",
   "events": [
     {
       "title": "Home",
@@ -414,11 +414,6 @@
       "title": "Submit NDSEG application",
       "done": false,
       "due": "2026-10-30T00:00:00.000Z"
-    },
-    {
-      "title": "C14",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
     },
     {
       "title": "BST - Write HW 9 Solution & Rubric",
