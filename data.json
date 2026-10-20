@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T14:26:40.509Z",
+  "generated_at": "2026-10-20T18:38:51.071Z",
   "events": [
     {
       "title": "Home",
@@ -7,13 +7,6 @@
       "end": "2026-10-19T23:59:59",
       "allDay": true,
       "location": null
-    },
-    {
-      "title": "Preply lesson - Xiaomin Q.",
-      "start": "2026-10-18T19:30:00-04:00",
-      "end": "2026-10-18T20:20:00-04:00",
-      "allDay": false,
-      "location": "https://preply.com/edu/chinese/classroom-v2/8331369?utm_source=email_calendar&sig=HqDQgdpjTZgICg7iVhaZwijbiiOLLgBM2hxkuVt2h6ZPDa2O"
     },
     {
       "title": "Tutor",
@@ -46,7 +39,7 @@
     {
       "title": "Get Ready",
       "start": "2026-10-19T06:00:00-04:00",
-      "end": "2026-10-19T06:15:00-04:00",
+      "end": "2026-10-19T07:30:00-04:00",
       "allDay": false,
       "location": "431 Riverside Dr, New York, NY 10025"
     },
@@ -93,16 +86,23 @@
       "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
     },
     {
-      "title": "Sugahara Lab",
-      "start": "2026-10-19T12:45:00-04:00",
-      "end": "2026-10-19T17:00:00-04:00",
+      "title": "Lunch",
+      "start": "2026-10-19T13:00:00-04:00",
+      "end": "2026-10-19T14:00:00-04:00",
       "allDay": false,
       "location": null
     },
     {
-      "title": "Lunch",
-      "start": "2026-10-19T13:00:00-04:00",
-      "end": "2026-10-19T14:00:00-04:00",
+      "title": "Work",
+      "start": "2026-10-19T14:00:00-04:00",
+      "end": "2026-10-19T15:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Norton - Admin",
+      "start": "2026-10-19T15:00:00-04:00",
+      "end": "2026-10-19T15:30:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -112,6 +112,13 @@
       "end": "2026-10-19T16:30:00-04:00",
       "allDay": false,
       "location": "Havemeyer 240"
+    },
+    {
+      "title": "Norton - Admin",
+      "start": "2026-10-19T16:30:00-04:00",
+      "end": "2026-10-19T18:00:00-04:00",
+      "allDay": false,
+      "location": null
     },
     {
       "title": "BST - TA - Office Hour",
@@ -124,6 +131,13 @@
       "title": "Dinner",
       "start": "2026-10-19T19:00:00-04:00",
       "end": "2026-10-19T20:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Work",
+      "start": "2026-10-19T20:00:00-04:00",
+      "end": "2026-10-19T21:00:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -151,23 +165,9 @@
     {
       "title": "Get Ready",
       "start": "2026-10-20T06:00:00-04:00",
-      "end": "2026-10-20T06:15:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-10-20T06:15:00-04:00",
-      "end": "2026-10-20T07:30:00-04:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Run",
-      "start": "2026-10-20T07:30:00-04:00",
       "end": "2026-10-20T08:30:00-04:00",
       "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+      "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
       "title": "Breakfast",
@@ -198,23 +198,51 @@
       "location": null
     },
     {
-      "title": "Classes",
+      "title": "Work",
       "start": "2026-10-20T12:45:00-04:00",
-      "end": "2026-10-20T19:00:00-04:00",
+      "end": "2026-10-20T14:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-20T14:30:00-04:00",
+      "end": "2026-10-20T17:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Work",
+      "start": "2026-10-20T17:30:00-04:00",
+      "end": "2026-10-20T19:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "LOC - Meeting",
+      "start": "2026-10-20T19:30:00-04:00",
+      "end": "2026-10-20T20:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Work",
+      "start": "2026-10-20T20:00:00-04:00",
+      "end": "2026-10-20T20:45:00-04:00",
       "allDay": false,
       "location": null
     },
     {
       "title": "Bed Time Routine",
-      "start": "2026-10-20T21:00:00-04:00",
-      "end": "2026-10-20T22:00:00-04:00",
+      "start": "2026-10-20T20:45:00-04:00",
+      "end": "2026-10-20T21:30:00-04:00",
       "allDay": false,
       "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
     },
     {
       "title": "Sleep",
-      "start": "2026-10-20T22:00:00-04:00",
-      "end": "2026-10-21T06:00:00-04:00",
+      "start": "2026-10-20T21:30:00-04:00",
+      "end": "2026-10-21T05:30:00-04:00",
       "allDay": false,
       "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
     },
@@ -227,35 +255,28 @@
     },
     {
       "title": "Get Ready",
-      "start": "2026-10-21T06:00:00-04:00",
-      "end": "2026-10-21T06:15:00-04:00",
+      "start": "2026-10-21T05:30:00-04:00",
+      "end": "2026-10-21T05:45:00-04:00",
       "allDay": false,
       "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
       "title": "Gym",
-      "start": "2026-10-21T06:15:00-04:00",
+      "start": "2026-10-21T05:45:00-04:00",
       "end": "2026-10-21T07:30:00-04:00",
       "allDay": false,
       "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
     },
     {
-      "title": "Breakfast",
-      "start": "2026-10-21T07:30:00-04:00",
-      "end": "2026-10-21T08:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
       "title": "Get Ready",
-      "start": "2026-10-21T08:00:00-04:00",
-      "end": "2026-10-21T08:30:00-04:00",
+      "start": "2026-10-21T07:30:00-04:00",
+      "end": "2026-10-21T08:15:00-04:00",
       "allDay": false,
       "location": null
     },
     {
       "title": "Commute to lab",
-      "start": "2026-10-21T08:30:00-04:00",
+      "start": "2026-10-21T08:15:00-04:00",
       "end": "2026-10-21T09:00:00-04:00",
       "allDay": false,
       "location": null
@@ -290,36 +311,6 @@
     }
   ],
   "tasks": [
-    {
-      "title": "Study Solid Biomechanics",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "title": "Study Cellular Bioengineering",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "title": "Study Environmental Microbiology",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "title": "Read CAR-T and iRGD research papers",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "title": "Create lab project timeline",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "title": "Develop lab procedures",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
-    },
     {
       "title": "EMB exam",
       "done": false,
@@ -359,36 +350,6 @@
       "title": "SDN killer experiments",
       "done": false,
       "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "Complete Environmental Microbiology homework",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "title": "Prepare Paul and Daisy Soros application",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "title": "Prepare GEM Fellowship materials",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "title": "Prepare NDSEG application materials",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "title": "Assemble and test robot leg",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "title": "Create Senior Design marketing slides",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
     },
     {
       "title": "phd applications and fee waivers",
