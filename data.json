@@ -1,137 +1,11 @@
 {
-  "generated_at": "2026-10-20T21:54:31.841Z",
+  "generated_at": "2026-10-21T00:25:46.354Z",
   "events": [
-    {
-      "title": "Home",
-      "start": "2026-10-18T00:00:00",
-      "end": "2026-10-19T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Tutor",
-      "start": "2026-10-18T20:00:00-04:00",
-      "end": "2026-10-18T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-10-18T21:00:00-04:00",
-      "end": "2026-10-18T22:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-10-18T22:00:00-04:00",
-      "end": "2026-10-19T06:00:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-10-19T00:00:00",
       "end": "2026-10-20T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-19T06:00:00-04:00",
-      "end": "2026-10-19T07:30:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-10-19T07:30:00-04:00",
-      "end": "2026-10-19T08:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-19T08:00:00-04:00",
-      "end": "2026-10-19T08:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to lab",
-      "start": "2026-10-19T08:30:00-04:00",
-      "end": "2026-10-19T09:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara Lab",
-      "start": "2026-10-19T09:00:00-04:00",
-      "end": "2026-10-19T11:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to Campus",
-      "start": "2026-10-19T10:45:00-04:00",
-      "end": "2026-10-19T11:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Gym",
-      "start": "2026-10-19T11:45:00-04:00",
-      "end": "2026-10-19T13:00:00-04:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-10-19T13:00:00-04:00",
-      "end": "2026-10-19T14:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-19T14:00:00-04:00",
-      "end": "2026-10-19T15:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Norton - Admin",
-      "start": "2026-10-19T15:00:00-04:00",
-      "end": "2026-10-19T15:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Meet with Esther",
-      "start": "2026-10-19T15:30:00-04:00",
-      "end": "2026-10-19T16:30:00-04:00",
-      "allDay": false,
-      "location": "Havemeyer 240"
-    },
-    {
-      "title": "Norton - Admin",
-      "start": "2026-10-19T16:30:00-04:00",
-      "end": "2026-10-19T18:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "BST - TA - Office Hour",
-      "start": "2026-10-19T18:00:00-04:00",
-      "end": "2026-10-19T19:00:00-04:00",
-      "allDay": false,
-      "location": "Mudd 343"
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-10-19T19:00:00-04:00",
-      "end": "2026-10-19T20:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -308,6 +182,104 @@
       "end": "2026-10-21T20:00:00-04:00",
       "allDay": false,
       "location": null
+    },
+    {
+      "title": "Tutor",
+      "start": "2026-10-21T20:00:00-04:00",
+      "end": "2026-10-21T21:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Preply lesson - Xiaomin Q.",
+      "start": "2026-10-21T20:00:00-04:00",
+      "end": "2026-10-21T20:50:00-04:00",
+      "allDay": false,
+      "location": "https://preply.com/edu/chinese/classroom-v2/8331369?utm_source=email_calendar&sig=HqDQgdpjTZgICg7iVhaZwijbiiOLLgBM2hxkuVt2h6ZPDa2O"
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-10-21T20:45:00-04:00",
+      "end": "2026-10-21T21:30:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-10-21T21:30:00-04:00",
+      "end": "2026-10-22T05:30:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-10-22T00:00:00",
+      "end": "2026-10-23T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-22T05:30:00-04:00",
+      "end": "2026-10-22T05:45:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-10-22T05:45:00-04:00",
+      "end": "2026-10-22T07:30:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Run",
+      "start": "2026-10-22T07:30:00-04:00",
+      "end": "2026-10-22T08:30:00-04:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-10-22T08:30:00-04:00",
+      "end": "2026-10-22T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-22T09:00:00-04:00",
+      "end": "2026-10-22T09:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-22T09:45:00-04:00",
+      "end": "2026-10-22T11:30:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-10-22T11:30:00-04:00",
+      "end": "2026-10-22T12:45:00-04:00",
+      "allDay": false,
+      "location": "Grace Dodge"
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-22T12:45:00-04:00",
+      "end": "2026-10-22T16:15:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Midterm Conversation",
+      "start": "2026-10-22T13:35:00-04:00",
+      "end": "2026-10-22T13:50:00-04:00",
+      "allDay": false,
+      "location": "https://columbiauniversity.zoom.us/j/7029706240"
     }
   ],
   "tasks": [
