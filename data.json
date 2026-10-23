@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T12:09:24.708Z",
+  "generated_at": "2026-10-23T20:27:58.910Z",
   "events": [
     {
       "title": "Office",
@@ -107,6 +107,13 @@
       "location": null
     },
     {
+      "title": "Work",
+      "start": "2026-10-22T16:15:00-04:00",
+      "end": "2026-10-22T20:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "Bed Time Routine",
       "start": "2026-10-22T20:45:00-04:00",
       "end": "2026-10-22T21:30:00-04:00",
@@ -199,8 +206,8 @@
     },
     {
       "title": "Dinner",
-      "start": "2026-10-23T19:00:00-04:00",
-      "end": "2026-10-23T20:00:00-04:00",
+      "start": "2026-10-23T18:30:00-04:00",
+      "end": "2026-10-23T19:30:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -233,18 +240,18 @@
       "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
-      "title": "Gym",
-      "start": "2026-10-24T08:00:00-04:00",
-      "end": "2026-10-24T09:30:00-04:00",
+      "title": "Work",
+      "start": "2026-10-24T05:45:00-04:00",
+      "end": "2026-10-24T08:00:00-04:00",
       "allDay": false,
       "location": null
     },
     {
-      "title": "Run",
-      "start": "2026-10-24T09:30:00-04:00",
-      "end": "2026-10-24T10:30:00-04:00",
+      "title": "Gym",
+      "start": "2026-10-24T08:00:00-04:00",
+      "end": "2026-10-24T10:00:00-04:00",
       "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+      "location": null
     },
     {
       "title": "Love / Becca Planning",
@@ -277,59 +284,24 @@
   ],
   "tasks": [
     {
+      "title": "Make slides for Andy - NUS",
+      "done": false,
+      "due": "2026-10-24T00:00:00.000Z"
+    },
+    {
+      "title": "Type up SDN Research",
+      "done": false,
+      "due": "2026-10-24T00:00:00.000Z"
+    },
+    {
       "title": "EMB exam",
       "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
+      "due": "2026-10-24T00:00:00.000Z"
     },
     {
-      "title": "Develop CAR-T experimental plan",
+      "title": "BST - Grade HW 4",
       "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "Research Senior Design",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "Finalize NSF GRFP application",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "sdn research tasks",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "finish grfp",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "Watch Environmental Microbiology lectures",
-      "done": false,
-      "due": "2026-10-18T00:00:00.000Z"
-    },
-    {
-      "title": "SDN killer experiments",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "phd applications and fee waivers",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "ndseg",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
-    },
-    {
-      "title": "Add PhD application recommenders",
-      "done": false,
-      "due": "2026-10-17T00:00:00.000Z"
+      "due": "2026-10-24T00:00:00.000Z"
     },
     {
       "title": "Submit Paul and Daisy Soros application",
@@ -350,11 +322,6 @@
       "title": "BST - Grade HW 5",
       "done": false,
       "due": "2026-10-27T00:00:00.000Z"
-    },
-    {
-      "title": "BST - Grade HW 4",
-      "done": false,
-      "due": "2026-10-20T00:00:00.000Z"
     },
     {
       "title": "TA - BST - Midterm",
