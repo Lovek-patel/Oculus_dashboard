@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:56:39.672Z",
+  "generated_at": "2026-10-24T15:44:33.710Z",
   "events": [
     {
       "title": "Office",
@@ -256,17 +256,17 @@
   ],
   "tasks": [
     {
+      "title": "EMB exam",
+      "done": false,
+      "due": "2026-10-25T00:00:00.000Z"
+    },
+    {
       "title": "Make slides for Andy - NUS",
       "done": false,
       "due": "2026-10-24T00:00:00.000Z"
     },
     {
       "title": "Type up SDN Research",
-      "done": false,
-      "due": "2026-10-24T00:00:00.000Z"
-    },
-    {
-      "title": "EMB exam",
       "done": false,
       "due": "2026-10-24T00:00:00.000Z"
     },
