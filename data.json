@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T15:44:33.710Z",
+  "generated_at": "2026-10-24T18:23:04.460Z",
   "events": [
     {
       "title": "Office",
@@ -170,9 +170,16 @@
       "location": null
     },
     {
+      "title": "Work",
+      "start": "2026-10-24T10:30:00-04:00",
+      "end": "2026-10-24T12:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "Lunch",
-      "start": "2026-10-24T11:45:00-04:00",
-      "end": "2026-10-24T12:45:00-04:00",
+      "start": "2026-10-24T12:00:00-04:00",
+      "end": "2026-10-24T13:00:00-04:00",
       "allDay": false,
       "location": null
     },
