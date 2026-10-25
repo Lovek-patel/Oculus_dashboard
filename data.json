@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:02:45.097Z",
+  "generated_at": "2026-10-25T16:22:46.034Z",
   "events": [
     {
       "title": "Office",
@@ -280,21 +280,6 @@
       "title": "EMB exam",
       "done": false,
       "due": "2026-10-25T00:00:00.000Z"
-    },
-    {
-      "title": "Make slides for Andy - NUS",
-      "done": false,
-      "due": "2026-10-24T00:00:00.000Z"
-    },
-    {
-      "title": "Type up SDN Research",
-      "done": false,
-      "due": "2026-10-24T00:00:00.000Z"
-    },
-    {
-      "title": "BST - Grade HW 4",
-      "done": false,
-      "due": "2026-10-24T00:00:00.000Z"
     },
     {
       "title": "Submit Paul and Daisy Soros application",
