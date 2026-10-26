@@ -1,102 +1,11 @@
 {
-  "generated_at": "2026-10-25T23:56:03.173Z",
+  "generated_at": "2026-10-26T04:07:01.186Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-10-23T00:00:00",
-      "end": "2026-10-24T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-23T19:30:00-04:00",
-      "end": "2026-10-23T20:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-10-23T20:45:00-04:00",
-      "end": "2026-10-23T21:30:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-10-23T21:30:00-04:00",
-      "end": "2026-10-24T05:30:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Home",
       "start": "2026-10-24T00:00:00",
       "end": "2026-10-25T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-24T05:30:00-04:00",
-      "end": "2026-10-24T05:45:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-24T05:45:00-04:00",
-      "end": "2026-10-24T08:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Gym",
-      "start": "2026-10-24T08:00:00-04:00",
-      "end": "2026-10-24T10:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Love / Becca Planning",
-      "start": "2026-10-24T10:00:00-04:00",
-      "end": "2026-10-24T11:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "James Jun's Zoom Meeting",
-      "start": "2026-10-24T10:00:00-04:00",
-      "end": "2026-10-24T10:30:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-24T10:30:00-04:00",
-      "end": "2026-10-24T12:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-10-24T12:00:00-04:00",
-      "end": "2026-10-24T13:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-24T13:00:00-04:00",
-      "end": "2026-10-24T17:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-10-24T19:00:00-04:00",
-      "end": "2026-10-24T20:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -271,6 +180,97 @@
       "title": "Dinner",
       "start": "2026-10-26T19:00:00-04:00",
       "end": "2026-10-26T20:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-10-26T20:45:00-04:00",
+      "end": "2026-10-26T21:30:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-10-26T21:30:00-04:00",
+      "end": "2026-10-27T05:30:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-10-27T00:00:00",
+      "end": "2026-10-28T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-27T05:30:00-04:00",
+      "end": "2026-10-27T05:45:00-04:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-10-27T05:45:00-04:00",
+      "end": "2026-10-27T07:30:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Run",
+      "start": "2026-10-27T07:30:00-04:00",
+      "end": "2026-10-27T08:30:00-04:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-10-27T08:30:00-04:00",
+      "end": "2026-10-27T09:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Students Only I-9 Appointments with Students Only I-9 Appointments",
+      "start": "2026-10-27T09:10:00-04:00",
+      "end": "2026-10-27T09:20:00-04:00",
+      "allDay": false,
+      "location": "208 Kent Hall, Morningside Campus"
+    },
+    {
+      "title": "Meet with Tay Andy",
+      "start": "2026-10-27T09:30:00-04:00",
+      "end": "2026-10-27T10:00:00-04:00",
+      "allDay": false,
+      "location": "https://nus-sg.zoom.us/j/8360288866?pwd=M2xId25Fb2lCN1d1L0prR2IwaG9sUT09"
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-27T10:00:00-04:00",
+      "end": "2026-10-27T11:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-10-27T11:45:00-04:00",
+      "end": "2026-10-27T12:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-10-27T12:45:00-04:00",
+      "end": "2026-10-27T18:45:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-10-27T18:45:00-04:00",
+      "end": "2026-10-27T19:30:00-04:00",
       "allDay": false,
       "location": null
     }
