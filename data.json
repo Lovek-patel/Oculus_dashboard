@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:09:10.027Z",
+  "generated_at": "2026-10-26T16:47:55.305Z",
   "events": [
     {
       "title": "Home",
@@ -121,13 +121,6 @@
       "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
-      "title": "Gym",
-      "start": "2026-10-26T05:45:00-04:00",
-      "end": "2026-10-26T07:30:00-04:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
       "title": "Get Ready",
       "start": "2026-10-26T07:30:00-04:00",
       "end": "2026-10-26T08:15:00-04:00",
@@ -164,10 +157,17 @@
     },
     {
       "title": "Commute to Campus",
-      "start": "2026-10-26T17:00:00-04:00",
-      "end": "2026-10-26T18:00:00-04:00",
+      "start": "2026-10-26T15:15:00-04:00",
+      "end": "2026-10-26T16:15:00-04:00",
       "allDay": false,
       "location": null
+    },
+    {
+      "title": "Gym",
+      "start": "2026-10-26T16:15:00-04:00",
+      "end": "2026-10-26T18:00:00-04:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
     },
     {
       "title": "BST - TA - Office Hour",
