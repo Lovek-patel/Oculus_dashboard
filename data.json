@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:02:40.372Z",
+  "generated_at": "2026-10-27T16:40:57.447Z",
   "events": [
     {
       "title": "Home",
@@ -174,7 +174,7 @@
       "start": "2026-10-27T09:30:00-04:00",
       "end": "2026-10-27T10:00:00-04:00",
       "allDay": false,
-      "location": "https://nus-sg.zoom.us/j/8360288866?pwd=M2xId25Fb2lCN1d1L0prR2IwaG9sUT09"
+      "location": null
     },
     {
       "title": "Classes",
