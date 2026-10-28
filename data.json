@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T12:57:21.478Z",
+  "generated_at": "2026-10-28T18:45:56.690Z",
   "events": [
     {
       "title": "Office",
@@ -189,13 +189,6 @@
       "end": "2026-10-28T21:00:00-04:00",
       "allDay": false,
       "location": null
-    },
-    {
-      "title": "Preply lesson - Xiaomin Q.",
-      "start": "2026-10-28T20:30:00-04:00",
-      "end": "2026-10-28T21:20:00-04:00",
-      "allDay": false,
-      "location": "https://preply.com/edu/chinese/classroom-v2/8331369?utm_source=email_calendar&sig=HqDQgdpjTZgICg7iVhaZwijbiiOLLgBM2hxkuVt2h6ZPDa2O"
     },
     {
       "title": "Bed Time Routine",
