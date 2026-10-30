@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T18:52:58.063Z",
+  "generated_at": "2026-10-30T22:50:51.096Z",
   "events": [
     {
       "title": "Office",
@@ -170,15 +170,8 @@
       "location": null
     },
     {
-      "title": "Lunch",
-      "start": "2026-10-30T11:45:00-04:00",
-      "end": "2026-10-30T12:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
       "title": "Sugahara Lab",
-      "start": "2026-10-30T12:45:00-04:00",
+      "start": "2026-10-30T11:45:00-04:00",
       "end": "2026-10-30T14:00:00-04:00",
       "allDay": false,
       "location": null
@@ -191,9 +184,9 @@
       "location": null
     },
     {
-      "title": "QB/EA/ED/FA Office Hours",
-      "start": "2026-10-30T15:30:00-04:00",
-      "end": "2026-10-30T18:00:00-04:00",
+      "title": "Lunch",
+      "start": "2026-10-30T15:00:00-04:00",
+      "end": "2026-10-30T16:00:00-04:00",
       "allDay": false,
       "location": null
     },
