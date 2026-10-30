@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T00:42:25.836Z",
+  "generated_at": "2026-10-30T06:30:55.603Z",
   "events": [
     {
       "title": "Office",
@@ -93,9 +93,23 @@
       "location": null
     },
     {
+      "title": "Work",
+      "start": "2026-10-29T16:15:00-04:00",
+      "end": "2026-10-29T19:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "NSOP Reunion - Dinner",
       "start": "2026-10-29T19:00:00-04:00",
       "end": "2026-10-29T20:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Work",
+      "start": "2026-10-29T20:00:00-04:00",
+      "end": "2026-10-29T20:45:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -165,7 +179,14 @@
     {
       "title": "Sugahara Lab",
       "start": "2026-10-30T12:45:00-04:00",
-      "end": "2026-10-30T17:00:00-04:00",
+      "end": "2026-10-30T14:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-10-30T14:00:00-04:00",
+      "end": "2026-10-30T15:00:00-04:00",
       "allDay": false,
       "location": null
     },
@@ -180,13 +201,6 @@
       "title": " ED FOLLOW UP - NUTRITIONIST appointment with GOLDER, COLBY RDE",
       "start": "2026-10-30T15:30:00-04:00",
       "end": "2026-10-30T16:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to Campus",
-      "start": "2026-10-30T17:00:00-04:00",
-      "end": "2026-10-30T18:00:00-04:00",
       "allDay": false,
       "location": null
     },
