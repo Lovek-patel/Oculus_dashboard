@@ -1,109 +1,11 @@
 {
-  "generated_at": "2026-10-30T22:50:51.096Z",
+  "generated_at": "2026-10-31T02:06:24.755Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-10-28T00:00:00",
-      "end": "2026-10-29T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Tutor",
-      "start": "2026-10-28T20:00:00-04:00",
-      "end": "2026-10-28T21:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-10-28T20:45:00-04:00",
-      "end": "2026-10-28T21:30:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-10-28T21:30:00-04:00",
-      "end": "2026-10-29T05:30:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-10-29T00:00:00",
       "end": "2026-10-30T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-29T05:30:00-04:00",
-      "end": "2026-10-29T05:45:00-04:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-10-29T05:45:00-04:00",
-      "end": "2026-10-29T07:30:00-04:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Run",
-      "start": "2026-10-29T07:30:00-04:00",
-      "end": "2026-10-29T08:30:00-04:00",
-      "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-10-29T08:30:00-04:00",
-      "end": "2026-10-29T09:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-10-29T09:00:00-04:00",
-      "end": "2026-10-29T09:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-10-29T09:45:00-04:00",
-      "end": "2026-10-29T11:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-10-29T11:45:00-04:00",
-      "end": "2026-10-29T12:45:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-10-29T12:45:00-04:00",
-      "end": "2026-10-29T16:15:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Work",
-      "start": "2026-10-29T16:15:00-04:00",
-      "end": "2026-10-29T19:00:00-04:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "NSOP Reunion - Dinner",
-      "start": "2026-10-29T19:00:00-04:00",
-      "end": "2026-10-29T20:00:00-04:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -264,6 +166,55 @@
       "title": "Dinner",
       "start": "2026-10-31T19:00:00-04:00",
       "end": "2026-10-31T20:00:00-04:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-10-31T20:45:00-04:00",
+      "end": "2026-10-31T21:30:00-04:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-10-31T21:30:00-04:00",
+      "end": "2026-11-01T04:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Home",
+      "start": "2026-11-01T00:00:00",
+      "end": "2026-11-02T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-01T05:30:00-05:00",
+      "end": "2026-11-01T05:45:00-05:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-11-01T08:00:00-05:00",
+      "end": "2026-11-01T09:30:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Run",
+      "start": "2026-11-01T09:30:00-05:00",
+      "end": "2026-11-01T10:30:00-05:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-11-01T11:45:00-05:00",
+      "end": "2026-11-01T12:45:00-05:00",
       "allDay": false,
       "location": null
     }
