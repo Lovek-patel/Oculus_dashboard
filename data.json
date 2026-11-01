@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:50:55.146Z",
+  "generated_at": "2026-11-01T19:24:43.896Z",
   "events": [
     {
       "title": "Office",
@@ -221,39 +221,54 @@
   ],
   "tasks": [
     {
-      "title": "Submit Fast Pitch",
+      "title": "TV",
       "done": false,
-      "due": "2026-10-29T00:00:00.000Z"
+      "due": null
     },
     {
-      "title": "EMB exam",
+      "title": "Add all recommenders",
       "done": false,
-      "due": "2026-10-25T00:00:00.000Z"
+      "due": null
     },
     {
-      "title": "Submit Paul and Daisy Soros application",
+      "title": "Request all fee waivers",
       "done": false,
-      "due": "2026-10-29T00:00:00.000Z"
+      "due": null
     },
     {
-      "title": "Submit NDSEG application",
+      "title": "Open all portals",
       "done": false,
-      "due": "2026-10-30T00:00:00.000Z"
+      "due": null
+    },
+    {
+      "title": "Screen time on laptop",
+      "done": false,
+      "due": null
+    },
+    {
+      "title": "Fix tasks",
+      "done": false,
+      "due": null
+    },
+    {
+      "title": "SBM Homework",
+      "done": false,
+      "due": null
+    },
+    {
+      "title": "Grade Midterm",
+      "done": false,
+      "due": null
+    },
+    {
+      "title": "Grade HW5",
+      "done": false,
+      "due": null
     },
     {
       "title": "BST - Write HW 9 Solution & Rubric",
       "done": false,
       "due": "2026-12-05T00:00:00.000Z"
-    },
-    {
-      "title": "BST - Grade HW 5",
-      "done": false,
-      "due": "2026-10-27T00:00:00.000Z"
-    },
-    {
-      "title": "TA - BST - Midterm",
-      "done": false,
-      "due": "2026-10-29T00:00:00.000Z"
     },
     {
       "title": "TA - BST - Quiz 2",
