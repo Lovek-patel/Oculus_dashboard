@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:49:51.820Z",
+  "generated_at": "2026-11-02T20:02:35.300Z",
   "events": [
     {
       "title": "Home",
@@ -243,21 +243,6 @@
   "tasks": [
     {
       "title": "TV",
-      "done": false,
-      "due": null
-    },
-    {
-      "title": "Add all recommenders",
-      "done": false,
-      "due": null
-    },
-    {
-      "title": "Request all fee waivers",
-      "done": false,
-      "due": null
-    },
-    {
-      "title": "Open all portals",
       "done": false,
       "due": null
     },
