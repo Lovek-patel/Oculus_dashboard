@@ -1,60 +1,11 @@
 {
-  "generated_at": "2026-11-02T20:02:35.300Z",
+  "generated_at": "2026-11-03T02:19:52.090Z",
   "events": [
-    {
-      "title": "Home",
-      "start": "2026-10-31T00:00:00",
-      "end": "2026-11-01T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-10-31T20:45:00-04:00",
-      "end": "2026-10-31T21:30:00-04:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-10-31T21:30:00-04:00",
-      "end": "2026-11-01T04:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Home",
       "start": "2026-11-01T00:00:00",
       "end": "2026-11-02T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-01T05:30:00-05:00",
-      "end": "2026-11-01T05:45:00-05:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-11-01T08:00:00-05:00",
-      "end": "2026-11-01T09:30:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Run",
-      "start": "2026-11-01T09:30:00-05:00",
-      "end": "2026-11-01T10:30:00-05:00",
-      "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-11-01T11:45:00-05:00",
-      "end": "2026-11-01T12:45:00-05:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -65,9 +16,9 @@
       "location": null
     },
     {
-      "title": "Tutor",
+      "title": "Work",
       "start": "2026-11-01T20:00:00-05:00",
-      "end": "2026-11-01T21:00:00-05:00",
+      "end": "2026-11-01T20:45:00-05:00",
       "allDay": false,
       "location": null
     },
@@ -123,6 +74,13 @@
     {
       "title": "Sugahara Lab",
       "start": "2026-11-02T09:00:00-05:00",
+      "end": "2026-11-02T10:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-11-02T10:45:00-05:00",
       "end": "2026-11-02T11:45:00-05:00",
       "allDay": false,
       "location": null
@@ -135,15 +93,8 @@
       "location": null
     },
     {
-      "title": "Sugahara Lab",
+      "title": "Work",
       "start": "2026-11-02T12:45:00-05:00",
-      "end": "2026-11-02T17:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to Campus",
-      "start": "2026-11-02T17:00:00-05:00",
       "end": "2026-11-02T18:00:00-05:00",
       "allDay": false,
       "location": null
@@ -238,16 +189,110 @@
       "end": "2026-11-03T14:00:00-05:00",
       "allDay": false,
       "location": null
+    },
+    {
+      "title": "Preply lesson - Xiaomin Q.",
+      "start": "2026-11-03T20:00:00-05:00",
+      "end": "2026-11-03T20:50:00-05:00",
+      "allDay": false,
+      "location": "https://preply.com/edu/chinese/classroom-v2/8331369?utm_source=email_calendar&sig=HqDQgdpjTZgICg7iVhaZwijbiiOLLgBM2hxkuVt2h6ZPDa2O"
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-11-03T20:45:00-05:00",
+      "end": "2026-11-03T21:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-11-03T21:30:00-05:00",
+      "end": "2026-11-04T05:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Gina Lui's birthday",
+      "start": "2026-11-04T00:00:00",
+      "end": "2026-11-05T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Office",
+      "start": "2026-11-04T00:00:00",
+      "end": "2026-11-05T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-04T05:30:00-05:00",
+      "end": "2026-11-04T05:45:00-05:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-11-04T05:45:00-05:00",
+      "end": "2026-11-04T07:30:00-05:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-04T07:30:00-05:00",
+      "end": "2026-11-04T08:15:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to lab",
+      "start": "2026-11-04T08:15:00-05:00",
+      "end": "2026-11-04T09:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara - PR Meeting",
+      "start": "2026-11-04T09:00:00-05:00",
+      "end": "2026-11-04T10:30:00-05:00",
+      "allDay": false,
+      "location": "HICC 1010"
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-11-04T10:30:00-05:00",
+      "end": "2026-11-04T11:30:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-11-04T11:30:00-05:00",
+      "end": "2026-11-04T19:00:00-05:00",
+      "allDay": false,
+      "location": null
     }
   ],
   "tasks": [
     {
-      "title": "TV",
+      "title": "fix the rest of robot",
       "done": false,
       "due": null
     },
     {
-      "title": "Screen time on laptop",
+      "title": "Fix robot crank",
+      "done": false,
+      "due": null
+    },
+    {
+      "title": "Senior Design Stuff",
+      "done": false,
+      "due": null
+    },
+    {
+      "title": "TV",
       "done": false,
       "due": null
     },
@@ -258,16 +303,6 @@
     },
     {
       "title": "SBM Homework",
-      "done": false,
-      "due": null
-    },
-    {
-      "title": "Grade Midterm",
-      "done": false,
-      "due": null
-    },
-    {
-      "title": "Grade HW5",
       "done": false,
       "due": null
     },
