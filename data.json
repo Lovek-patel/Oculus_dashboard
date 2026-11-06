@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:50:47.719Z",
+  "generated_at": "2026-11-06T20:43:51.975Z",
   "events": [
     {
       "title": "Gina Lui's birthday",
@@ -263,27 +263,7 @@
   ],
   "tasks": [
     {
-      "title": "fix the rest of robot",
-      "done": false,
-      "due": null
-    },
-    {
-      "title": "Fix robot crank",
-      "done": false,
-      "due": null
-    },
-    {
       "title": "Senior Design Stuff",
-      "done": false,
-      "due": null
-    },
-    {
-      "title": "TV",
-      "done": false,
-      "due": null
-    },
-    {
-      "title": "Fix tasks",
       "done": false,
       "due": null
     },
@@ -326,11 +306,6 @@
       "title": "GagaOOLala Subscription",
       "done": false,
       "due": "2027-05-10T00:00:00.000Z"
-    },
-    {
-      "title": "Renew Spotify Student",
-      "done": false,
-      "due": "2026-11-28T00:00:00.000Z"
     }
   ]
 }
