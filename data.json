@@ -1,102 +1,11 @@
 {
-  "generated_at": "2026-11-07T21:58:05.478Z",
+  "generated_at": "2026-11-08T01:16:53.786Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-11-05T00:00:00",
-      "end": "2026-11-06T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-11-05T20:45:00-05:00",
-      "end": "2026-11-05T21:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-11-05T21:30:00-05:00",
-      "end": "2026-11-06T05:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-11-06T00:00:00",
       "end": "2026-11-07T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-06T05:30:00-05:00",
-      "end": "2026-11-06T05:45:00-05:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-11-06T05:45:00-05:00",
-      "end": "2026-11-06T07:30:00-05:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-06T07:30:00-05:00",
-      "end": "2026-11-06T08:15:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to lab",
-      "start": "2026-11-06T08:15:00-05:00",
-      "end": "2026-11-06T09:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara Lab",
-      "start": "2026-11-06T09:00:00-05:00",
-      "end": "2026-11-06T11:45:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "CMI Weekly Chair Meetings",
-      "start": "2026-11-06T11:00:00-05:00",
-      "end": "2026-11-06T12:00:00-05:00",
-      "allDay": false,
-      "location": "Lerner 510K"
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-11-06T11:45:00-05:00",
-      "end": "2026-11-06T12:45:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara Lab",
-      "start": "2026-11-06T12:45:00-05:00",
-      "end": "2026-11-06T17:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to Campus",
-      "start": "2026-11-06T17:00:00-05:00",
-      "end": "2026-11-06T18:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-11-06T18:00:00-05:00",
-      "end": "2026-11-06T19:00:00-05:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -224,6 +133,104 @@
       "end": "2026-11-08T12:45:00-05:00",
       "allDay": false,
       "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-11-08T19:00:00-05:00",
+      "end": "2026-11-08T20:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Preply lesson - Peiying H.",
+      "start": "2026-11-08T20:00:00-05:00",
+      "end": "2026-11-08T20:50:00-05:00",
+      "allDay": false,
+      "location": "https://preply.com/edu/chinese/classroom-v2/11429410?utm_source=email_calendar&sig=Jh5PLyN22jK_3VQIL6SLb0PVxj5arVJzshWOz3AO3vZGHQv_"
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-11-08T20:45:00-05:00",
+      "end": "2026-11-08T21:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-11-08T21:30:00-05:00",
+      "end": "2026-11-09T05:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-11-09T00:00:00",
+      "end": "2026-11-10T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-09T05:30:00-05:00",
+      "end": "2026-11-09T05:45:00-05:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-11-09T05:45:00-05:00",
+      "end": "2026-11-09T07:30:00-05:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-09T07:30:00-05:00",
+      "end": "2026-11-09T08:15:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to lab",
+      "start": "2026-11-09T08:15:00-05:00",
+      "end": "2026-11-09T09:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara Lab",
+      "start": "2026-11-09T09:00:00-05:00",
+      "end": "2026-11-09T11:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-11-09T11:45:00-05:00",
+      "end": "2026-11-09T12:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara Lab",
+      "start": "2026-11-09T12:45:00-05:00",
+      "end": "2026-11-09T17:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-11-09T17:00:00-05:00",
+      "end": "2026-11-09T18:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "BST - TA - Office Hour",
+      "start": "2026-11-09T18:00:00-05:00",
+      "end": "2026-11-09T19:00:00-05:00",
+      "allDay": false,
+      "location": "Mudd 343"
     }
   ],
   "tasks": [
