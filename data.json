@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T01:54:36.948Z",
+  "generated_at": "2026-11-12T09:27:39.896Z",
   "events": [
     {
       "title": "Office",
@@ -170,6 +170,13 @@
       "location": null
     },
     {
+      "title": "Doctors appointment",
+      "start": "2026-11-12T16:30:00-05:00",
+      "end": "2026-11-12T17:30:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "Fall CMI-Wide Event (Event: 6:30-8pm)",
       "start": "2026-11-12T17:45:00-05:00",
       "end": "2026-11-12T20:30:00-05:00",
@@ -269,6 +276,11 @@
     }
   ],
   "tasks": [
+    {
+      "title": "Check Finances",
+      "done": false,
+      "due": "2026-11-12T00:00:00.000Z"
+    },
     {
       "title": "Senior Design Stuff",
       "done": false,
