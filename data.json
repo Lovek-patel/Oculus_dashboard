@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T11:24:59.437Z",
+  "generated_at": "2026-11-13T18:40:09.498Z",
   "events": [
     {
       "title": "Office",
@@ -177,6 +177,13 @@
       "location": null
     },
     {
+      "title": "Doctors Appointment",
+      "start": "2026-11-13T16:00:00-05:00",
+      "end": "2026-11-13T17:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "Commute to Campus",
       "start": "2026-11-13T17:00:00-05:00",
       "end": "2026-11-13T18:00:00-05:00",
@@ -265,7 +272,7 @@
       "start": "2026-11-14T12:00:00-05:00",
       "end": "2026-11-14T13:00:00-05:00",
       "allDay": false,
-      "location": "AMC Empire 25, 234 West 42nd Street, New York, NY 10036"
+      "location": "AMC Empire 25, AMC Empire 25, 234 West 42nd Street, New York, NY 10036"
     }
   ],
   "tasks": [
