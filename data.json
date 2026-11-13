@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T18:40:09.498Z",
+  "generated_at": "2026-11-13T23:54:09.433Z",
   "events": [
     {
       "title": "Office",
@@ -276,11 +276,6 @@
     }
   ],
   "tasks": [
-    {
-      "title": "Check Finances",
-      "done": false,
-      "due": "2026-11-12T00:00:00.000Z"
-    },
     {
       "title": "Senior Design Stuff",
       "done": false,
