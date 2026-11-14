@@ -1,95 +1,11 @@
 {
-  "generated_at": "2026-11-13T23:54:09.433Z",
+  "generated_at": "2026-11-14T05:30:45.534Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-11-11T00:00:00",
-      "end": "2026-11-12T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-11-11T19:00:00-05:00",
-      "end": "2026-11-11T20:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-11-11T20:45:00-05:00",
-      "end": "2026-11-11T21:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-11-11T21:30:00-05:00",
-      "end": "2026-11-12T05:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-11-12T00:00:00",
       "end": "2026-11-13T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-12T05:30:00-05:00",
-      "end": "2026-11-12T08:30:00-05:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-11-12T08:30:00-05:00",
-      "end": "2026-11-12T09:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-12T09:00:00-05:00",
-      "end": "2026-11-12T09:45:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-11-12T09:45:00-05:00",
-      "end": "2026-11-12T11:15:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Gym",
-      "start": "2026-11-12T11:15:00-05:00",
-      "end": "2026-11-12T13:00:00-05:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-11-12T13:00:00-05:00",
-      "end": "2026-11-12T14:30:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-11-12T14:30:00-05:00",
-      "end": "2026-11-12T16:30:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Doctors appointment",
-      "start": "2026-11-12T16:30:00-05:00",
-      "end": "2026-11-12T17:00:00-05:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -101,7 +17,7 @@
     },
     {
       "title": "Bed Time Routine",
-      "start": "2026-11-12T20:45:00-05:00",
+      "start": "2026-11-12T20:30:00-05:00",
       "end": "2026-11-12T21:30:00-05:00",
       "allDay": false,
       "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
@@ -151,6 +67,13 @@
     {
       "title": "Sugahara Lab",
       "start": "2026-11-13T09:00:00-05:00",
+      "end": "2026-11-13T10:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-11-13T10:45:00-05:00",
       "end": "2026-11-13T11:45:00-05:00",
       "allDay": false,
       "location": null
@@ -170,9 +93,9 @@
       "location": null
     },
     {
-      "title": "Sugahara Lab",
+      "title": "Work",
       "start": "2026-11-13T12:45:00-05:00",
-      "end": "2026-11-13T17:00:00-05:00",
+      "end": "2026-11-13T16:00:00-05:00",
       "allDay": false,
       "location": null
     },
@@ -184,32 +107,18 @@
       "location": null
     },
     {
-      "title": "Commute to Campus",
+      "title": "Work",
       "start": "2026-11-13T17:00:00-05:00",
-      "end": "2026-11-13T18:00:00-05:00",
+      "end": "2026-11-13T19:45:00-05:00",
       "allDay": false,
       "location": null
     },
     {
       "title": "Dinner",
-      "start": "2026-11-13T19:00:00-05:00",
-      "end": "2026-11-13T20:00:00-05:00",
+      "start": "2026-11-13T19:45:00-05:00",
+      "end": "2026-11-13T20:45:00-05:00",
       "allDay": false,
       "location": null
-    },
-    {
-      "title": "Tutor",
-      "start": "2026-11-13T20:00:00-05:00",
-      "end": "2026-11-13T21:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Preply lesson - Shuxing C.",
-      "start": "2026-11-13T20:00:00-05:00",
-      "end": "2026-11-13T20:50:00-05:00",
-      "allDay": false,
-      "location": "https://preply.com/edu/chinese/classroom-v2/11429406?utm_source=email_calendar&sig=07a5q2W4aMqYn--yMco8gmzeb8SM4BYRsr4Ez0Nfx948h3AG"
     },
     {
       "title": "Bed Time Routine",
@@ -240,30 +149,30 @@
       "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
-      "title": "Gym",
-      "start": "2026-11-14T08:00:00-05:00",
-      "end": "2026-11-14T09:30:00-05:00",
+      "title": "Work",
+      "start": "2026-11-14T05:45:00-05:00",
+      "end": "2026-11-14T08:45:00-05:00",
       "allDay": false,
       "location": null
     },
     {
-      "title": "Run",
-      "start": "2026-11-14T09:30:00-05:00",
-      "end": "2026-11-14T10:30:00-05:00",
-      "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
-    },
-    {
-      "title": "Love / Becca Planning",
-      "start": "2026-11-14T10:00:00-05:00",
-      "end": "2026-11-14T11:00:00-05:00",
+      "title": "Walk to C Station",
+      "start": "2026-11-14T08:45:00-05:00",
+      "end": "2026-11-14T09:15:00-05:00",
       "allDay": false,
       "location": null
     },
     {
-      "title": "Lunch",
-      "start": "2026-11-14T11:45:00-05:00",
-      "end": "2026-11-14T12:45:00-05:00",
+      "title": "Simon's Birthday",
+      "start": "2026-11-14T09:15:00-05:00",
+      "end": "2026-11-14T12:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Ramayana",
+      "start": "2026-11-14T12:00:00-05:00",
+      "end": "2026-11-14T15:00:00-05:00",
       "allDay": false,
       "location": null
     },
@@ -273,6 +182,76 @@
       "end": "2026-11-14T13:00:00-05:00",
       "allDay": false,
       "location": "AMC Empire 25, AMC Empire 25, 234 West 42nd Street, New York, NY 10036"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-11-14T15:00:00-05:00",
+      "end": "2026-11-14T16:30:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Run",
+      "start": "2026-11-14T16:30:00-05:00",
+      "end": "2026-11-14T17:30:00-05:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-11-14T19:00:00-05:00",
+      "end": "2026-11-14T20:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-11-14T20:45:00-05:00",
+      "end": "2026-11-14T21:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-11-14T21:30:00-05:00",
+      "end": "2026-11-15T05:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Home",
+      "start": "2026-11-15T00:00:00",
+      "end": "2026-11-16T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-15T05:30:00-05:00",
+      "end": "2026-11-15T05:45:00-05:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-11-15T08:00:00-05:00",
+      "end": "2026-11-15T09:30:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Run",
+      "start": "2026-11-15T09:30:00-05:00",
+      "end": "2026-11-15T10:30:00-05:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-11-15T11:45:00-05:00",
+      "end": "2026-11-15T12:45:00-05:00",
+      "allDay": false,
+      "location": null
     }
   ],
   "tasks": [
