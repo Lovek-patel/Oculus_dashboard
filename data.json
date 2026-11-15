@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:32:04.029Z",
+  "generated_at": "2026-11-15T21:19:14.148Z",
   "events": [
     {
       "title": "Office",
@@ -135,20 +135,6 @@
       "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
-      "title": "Gym",
-      "start": "2026-11-15T08:00:00-05:00",
-      "end": "2026-11-15T09:30:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Run",
-      "start": "2026-11-15T09:30:00-05:00",
-      "end": "2026-11-15T10:30:00-05:00",
-      "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
-    },
-    {
       "title": "Lunch",
       "start": "2026-11-15T11:45:00-05:00",
       "end": "2026-11-15T12:45:00-05:00",
@@ -156,16 +142,23 @@
       "location": null
     },
     {
-      "title": "Dinner",
-      "start": "2026-11-15T18:00:00-05:00",
+      "title": "LOC - Meeting",
+      "start": "2026-11-15T17:00:00-05:00",
+      "end": "2026-11-15T17:30:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Gym",
+      "start": "2026-11-15T17:30:00-05:00",
       "end": "2026-11-15T19:00:00-05:00",
       "allDay": false,
       "location": null
     },
     {
-      "title": "LOC - Meeting",
-      "start": "2026-11-15T20:00:00-05:00",
-      "end": "2026-11-15T20:30:00-05:00",
+      "title": "Dinner",
+      "start": "2026-11-15T19:00:00-05:00",
+      "end": "2026-11-15T20:00:00-05:00",
       "allDay": false,
       "location": null
     },
