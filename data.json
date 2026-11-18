@@ -1,34 +1,6 @@
 {
-  "generated_at": "2026-11-17T19:45:12.902Z",
+  "generated_at": "2026-11-18T01:53:31.562Z",
   "events": [
-    {
-      "title": "Home",
-      "start": "2026-11-15T00:00:00",
-      "end": "2026-11-16T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-11-15T19:00:00-05:00",
-      "end": "2026-11-15T20:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-11-15T20:45:00-05:00",
-      "end": "2026-11-15T21:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-11-15T21:30:00-05:00",
-      "end": "2026-11-16T05:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-11-16T00:00:00",
@@ -37,67 +9,18 @@
       "location": null
     },
     {
-      "title": "Get Ready",
-      "start": "2026-11-16T05:30:00-05:00",
-      "end": "2026-11-16T05:45:00-05:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-16T07:30:00-05:00",
-      "end": "2026-11-16T08:15:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to lab",
-      "start": "2026-11-16T09:30:00-05:00",
-      "end": "2026-11-16T10:15:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara Lab",
-      "start": "2026-11-16T10:15:00-05:00",
-      "end": "2026-11-16T13:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to Campus",
-      "start": "2026-11-16T13:00:00-05:00",
-      "end": "2026-11-16T14:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-11-16T14:00:00-05:00",
-      "end": "2026-11-16T15:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Gym",
-      "start": "2026-11-16T16:15:00-05:00",
-      "end": "2026-11-16T18:00:00-05:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
       "title": "Dinner",
-      "start": "2026-11-16T18:00:00-05:00",
-      "end": "2026-11-16T19:00:00-05:00",
+      "start": "2026-11-16T19:00:00-05:00",
+      "end": "2026-11-16T20:00:00-05:00",
       "allDay": false,
       "location": null
     },
     {
-      "title": "BST - TA - Office Hour",
-      "start": "2026-11-16T18:00:00-05:00",
-      "end": "2026-11-16T19:00:00-05:00",
+      "title": "Tutor",
+      "start": "2026-11-16T20:00:00-05:00",
+      "end": "2026-11-16T21:00:00-05:00",
       "allDay": false,
-      "location": "Mudd 343"
+      "location": null
     },
     {
       "title": "Preply lesson - Shuxing C.",
@@ -130,23 +53,9 @@
     {
       "title": "Get Ready",
       "start": "2026-11-17T05:30:00-05:00",
-      "end": "2026-11-17T05:45:00-05:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-11-17T05:45:00-05:00",
-      "end": "2026-11-17T07:30:00-05:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Run",
-      "start": "2026-11-17T07:30:00-05:00",
       "end": "2026-11-17T08:30:00-05:00",
       "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+      "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
       "title": "Breakfast",
@@ -184,9 +93,9 @@
       "location": null
     },
     {
-      "title": "Tutor",
-      "start": "2026-11-17T20:00:00-05:00",
-      "end": "2026-11-17T21:00:00-05:00",
+      "title": "Dinner",
+      "start": "2026-11-17T18:45:00-05:00",
+      "end": "2026-11-17T19:45:00-05:00",
       "allDay": false,
       "location": null
     },
@@ -257,6 +166,104 @@
       "title": "Classes",
       "start": "2026-11-18T11:30:00-05:00",
       "end": "2026-11-18T19:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-11-18T19:00:00-05:00",
+      "end": "2026-11-18T20:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Preply lesson - Yuto E.",
+      "start": "2026-11-18T20:00:00-05:00",
+      "end": "2026-11-18T20:50:00-05:00",
+      "allDay": false,
+      "location": "https://preply.com/edu/japanese/classroom-v2/11429450?utm_source=email_calendar&sig=MK0vzOEDr7l4Knc1CnWaWChy57m7aMfBFxKu6jp9v-dqVW5c"
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-11-18T20:45:00-05:00",
+      "end": "2026-11-18T21:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-11-18T21:30:00-05:00",
+      "end": "2026-11-19T05:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-11-19T00:00:00",
+      "end": "2026-11-20T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Taylor Wang's birthday",
+      "start": "2026-11-19T00:00:00",
+      "end": "2026-11-20T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-19T05:30:00-05:00",
+      "end": "2026-11-19T05:45:00-05:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-11-19T05:45:00-05:00",
+      "end": "2026-11-19T07:30:00-05:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Run",
+      "start": "2026-11-19T07:30:00-05:00",
+      "end": "2026-11-19T08:30:00-05:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-11-19T08:30:00-05:00",
+      "end": "2026-11-19T09:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-19T09:00:00-05:00",
+      "end": "2026-11-19T09:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-11-19T09:45:00-05:00",
+      "end": "2026-11-19T11:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-11-19T11:45:00-05:00",
+      "end": "2026-11-19T12:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-11-19T12:45:00-05:00",
+      "end": "2026-11-19T16:15:00-05:00",
       "allDay": false,
       "location": null
     }
