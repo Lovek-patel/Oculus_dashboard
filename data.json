@@ -1,95 +1,11 @@
 {
-  "generated_at": "2026-11-18T18:43:26.641Z",
+  "generated_at": "2026-11-19T00:45:57.075Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-11-16T00:00:00",
-      "end": "2026-11-17T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-11-16T19:00:00-05:00",
-      "end": "2026-11-16T20:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Tutor",
-      "start": "2026-11-16T20:00:00-05:00",
-      "end": "2026-11-16T21:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Preply lesson - Shuxing C.",
-      "start": "2026-11-16T20:00:00-05:00",
-      "end": "2026-11-16T20:50:00-05:00",
-      "allDay": false,
-      "location": "https://preply.com/edu/chinese/classroom-v2/11429406?utm_source=email_calendar&sig=07a5q2W4aMqYn--yMco8gmzeb8SM4BYRsr4Ez0Nfx948h3AG"
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-11-16T20:45:00-05:00",
-      "end": "2026-11-16T21:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-11-16T21:30:00-05:00",
-      "end": "2026-11-17T05:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-11-17T00:00:00",
       "end": "2026-11-18T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-17T05:30:00-05:00",
-      "end": "2026-11-17T08:30:00-05:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Breakfast",
-      "start": "2026-11-17T08:30:00-05:00",
-      "end": "2026-11-17T09:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-17T09:00:00-05:00",
-      "end": "2026-11-17T09:45:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-11-17T09:45:00-05:00",
-      "end": "2026-11-17T11:45:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-11-17T11:45:00-05:00",
-      "end": "2026-11-17T12:45:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-11-17T12:45:00-05:00",
-      "end": "2026-11-17T18:45:00-05:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -177,13 +93,6 @@
       "location": null
     },
     {
-      "title": "Preply lesson - Yuto E.",
-      "start": "2026-11-18T20:00:00-05:00",
-      "end": "2026-11-18T20:50:00-05:00",
-      "allDay": false,
-      "location": "https://preply.com/edu/japanese/classroom-v2/11429450?utm_source=email_calendar&sig=MK0vzOEDr7l4Knc1CnWaWChy57m7aMfBFxKu6jp9v-dqVW5c"
-    },
-    {
       "title": "Bed Time Routine",
       "start": "2026-11-18T20:45:00-05:00",
       "end": "2026-11-18T21:30:00-05:00",
@@ -264,6 +173,90 @@
       "title": "Classes",
       "start": "2026-11-19T12:45:00-05:00",
       "end": "2026-11-19T16:15:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-11-19T20:45:00-05:00",
+      "end": "2026-11-19T21:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-11-19T21:30:00-05:00",
+      "end": "2026-11-20T05:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-11-20T00:00:00",
+      "end": "2026-11-21T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-20T05:30:00-05:00",
+      "end": "2026-11-20T05:45:00-05:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-11-20T05:45:00-05:00",
+      "end": "2026-11-20T07:30:00-05:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-20T07:30:00-05:00",
+      "end": "2026-11-20T08:15:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to lab",
+      "start": "2026-11-20T08:15:00-05:00",
+      "end": "2026-11-20T09:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara Lab",
+      "start": "2026-11-20T09:00:00-05:00",
+      "end": "2026-11-20T11:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "CMI Weekly Chair Meetings",
+      "start": "2026-11-20T11:00:00-05:00",
+      "end": "2026-11-20T12:00:00-05:00",
+      "allDay": false,
+      "location": "Lerner 510K"
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-11-20T11:45:00-05:00",
+      "end": "2026-11-20T12:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sugahara Lab",
+      "start": "2026-11-20T12:45:00-05:00",
+      "end": "2026-11-20T17:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Commute to Campus",
+      "start": "2026-11-20T17:00:00-05:00",
+      "end": "2026-11-20T18:00:00-05:00",
       "allDay": false,
       "location": null
     }
