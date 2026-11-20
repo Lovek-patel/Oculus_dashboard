@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:41:20.270Z",
+  "generated_at": "2026-11-20T22:22:15.084Z",
   "events": [
     {
       "title": "Office",
@@ -123,42 +123,14 @@
     {
       "title": "Get Ready",
       "start": "2026-11-20T05:30:00-05:00",
-      "end": "2026-11-20T05:45:00-05:00",
+      "end": "2026-11-20T09:00:00-05:00",
       "allDay": false,
       "location": "431 Riverside Dr, New York, NY 10025"
     },
     {
-      "title": "Gym",
-      "start": "2026-11-20T05:45:00-05:00",
-      "end": "2026-11-20T07:30:00-05:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-20T07:30:00-05:00",
-      "end": "2026-11-20T08:15:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to lab",
-      "start": "2026-11-20T08:15:00-05:00",
-      "end": "2026-11-20T09:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara Lab",
-      "start": "2026-11-20T09:00:00-05:00",
-      "end": "2026-11-20T11:45:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
       "title": "Dentist",
-      "start": "2026-11-20T10:00:00-05:00",
-      "end": "2026-11-20T11:00:00-05:00",
+      "start": "2026-11-20T09:00:00-05:00",
+      "end": "2026-11-20T12:00:00-05:00",
       "allDay": false,
       "location": "Chroma Dental - Dr. Yev Davydov, 155 E 55th St #301, New York, NY 10022, USA"
     },
@@ -170,8 +142,8 @@
       "location": "Lerner 510K"
     },
     {
-      "title": "Lunch",
-      "start": "2026-11-20T11:45:00-05:00",
+      "title": "Commute to lab",
+      "start": "2026-11-20T12:00:00-05:00",
       "end": "2026-11-20T12:45:00-05:00",
       "allDay": false,
       "location": null
@@ -179,20 +151,48 @@
     {
       "title": "Sugahara Lab",
       "start": "2026-11-20T12:45:00-05:00",
-      "end": "2026-11-20T17:00:00-05:00",
+      "end": "2026-11-20T14:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Collect Virus/Change Media",
+      "start": "2026-11-20T14:00:00-05:00",
+      "end": "2026-11-20T15:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-11-20T14:15:00-05:00",
+      "end": "2026-11-20T15:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Spin Virus",
+      "start": "2026-11-20T15:00:00-05:00",
+      "end": "2026-11-20T17:15:00-05:00",
       "allDay": false,
       "location": null
     },
     {
       "title": "Commute to Campus",
-      "start": "2026-11-20T17:00:00-05:00",
+      "start": "2026-11-20T17:15:00-05:00",
       "end": "2026-11-20T18:00:00-05:00",
       "allDay": false,
       "location": null
     },
     {
+      "title": "Gym",
+      "start": "2026-11-20T18:00:00-05:00",
+      "end": "2026-11-20T19:30:00-05:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
       "title": "Dinner",
-      "start": "2026-11-20T19:00:00-05:00",
+      "start": "2026-11-20T19:30:00-05:00",
       "end": "2026-11-20T20:00:00-05:00",
       "allDay": false,
       "location": null
@@ -205,15 +205,8 @@
       "location": null
     },
     {
-      "title": "Preply lesson - Shuxing C.",
-      "start": "2026-11-20T20:00:00-05:00",
-      "end": "2026-11-20T20:50:00-05:00",
-      "allDay": false,
-      "location": "https://preply.com/edu/chinese/classroom-v2/11429406?utm_source=email_calendar&sig=07a5q2W4aMqYn--yMco8gmzeb8SM4BYRsr4Ez0Nfx948h3AG"
-    },
-    {
       "title": "Bed Time Routine",
-      "start": "2026-11-20T20:45:00-05:00",
+      "start": "2026-11-20T21:00:00-05:00",
       "end": "2026-11-20T21:30:00-05:00",
       "allDay": false,
       "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
@@ -266,16 +259,18 @@
       "end": "2026-11-21T12:45:00-05:00",
       "allDay": false,
       "location": null
+    },
+    {
+      "title": "Ortho Appointment",
+      "start": "2026-11-21T13:00:00-05:00",
+      "end": "2026-11-21T14:00:00-05:00",
+      "allDay": false,
+      "location": "155 E 55th St, New York, NY 10022, USA"
     }
   ],
   "tasks": [
     {
-      "title": "Senior Design Stuff",
-      "done": false,
-      "due": null
-    },
-    {
-      "title": "SBM Homework",
+      "title": "Get Data, get cirucit working, get new emg sensor working, find the right emg sensor for you",
       "done": false,
       "due": null
     },
