@@ -1,88 +1,11 @@
 {
-  "generated_at": "2026-11-19T23:52:12.517Z",
+  "generated_at": "2026-11-20T06:18:35.653Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-11-17T00:00:00",
-      "end": "2026-11-18T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-11-17T18:45:00-05:00",
-      "end": "2026-11-17T19:45:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-11-17T20:45:00-05:00",
-      "end": "2026-11-17T21:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-11-17T21:30:00-05:00",
-      "end": "2026-11-18T05:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-11-18T00:00:00",
       "end": "2026-11-19T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-18T05:30:00-05:00",
-      "end": "2026-11-18T05:45:00-05:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-11-18T05:45:00-05:00",
-      "end": "2026-11-18T07:30:00-05:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-18T07:30:00-05:00",
-      "end": "2026-11-18T08:15:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Commute to lab",
-      "start": "2026-11-18T08:15:00-05:00",
-      "end": "2026-11-18T09:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Sugahara - PR Meeting",
-      "start": "2026-11-18T09:00:00-05:00",
-      "end": "2026-11-18T10:30:00-05:00",
-      "allDay": false,
-      "location": "HICC 1010"
-    },
-    {
-      "title": "Commute to Campus",
-      "start": "2026-11-18T10:30:00-05:00",
-      "end": "2026-11-18T11:30:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Classes",
-      "start": "2026-11-18T11:30:00-05:00",
-      "end": "2026-11-18T19:00:00-05:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -264,6 +187,83 @@
       "title": "Commute to Campus",
       "start": "2026-11-20T17:00:00-05:00",
       "end": "2026-11-20T18:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-11-20T19:00:00-05:00",
+      "end": "2026-11-20T20:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Tutor",
+      "start": "2026-11-20T20:00:00-05:00",
+      "end": "2026-11-20T21:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Preply lesson - Shuxing C.",
+      "start": "2026-11-20T20:00:00-05:00",
+      "end": "2026-11-20T20:50:00-05:00",
+      "allDay": false,
+      "location": "https://preply.com/edu/chinese/classroom-v2/11429406?utm_source=email_calendar&sig=07a5q2W4aMqYn--yMco8gmzeb8SM4BYRsr4Ez0Nfx948h3AG"
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-11-20T20:45:00-05:00",
+      "end": "2026-11-20T21:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-11-20T21:30:00-05:00",
+      "end": "2026-11-21T05:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Home",
+      "start": "2026-11-21T00:00:00",
+      "end": "2026-11-22T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-21T05:30:00-05:00",
+      "end": "2026-11-21T05:45:00-05:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-11-21T08:00:00-05:00",
+      "end": "2026-11-21T09:30:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Run",
+      "start": "2026-11-21T09:30:00-05:00",
+      "end": "2026-11-21T10:30:00-05:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Love / Becca Planning",
+      "start": "2026-11-21T10:00:00-05:00",
+      "end": "2026-11-21T11:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-11-21T11:45:00-05:00",
+      "end": "2026-11-21T12:45:00-05:00",
       "allDay": false,
       "location": null
     }
