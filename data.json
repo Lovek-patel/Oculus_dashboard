@@ -1,96 +1,12 @@
 {
-  "generated_at": "2026-11-22T19:12:56.726Z",
+  "generated_at": "2026-11-23T00:20:56.143Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-11-20T00:00:00",
-      "end": "2026-11-21T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Gym",
-      "start": "2026-11-20T18:00:00-05:00",
-      "end": "2026-11-20T19:30:00-05:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-11-20T19:30:00-05:00",
-      "end": "2026-11-20T20:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Tutor",
-      "start": "2026-11-20T20:00:00-05:00",
-      "end": "2026-11-20T21:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-11-20T21:00:00-05:00",
-      "end": "2026-11-20T21:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-11-20T21:30:00-05:00",
-      "end": "2026-11-21T05:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Home",
       "start": "2026-11-21T00:00:00",
       "end": "2026-11-22T23:59:59",
       "allDay": true,
       "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-21T05:30:00-05:00",
-      "end": "2026-11-21T05:45:00-05:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-11-21T08:00:00-05:00",
-      "end": "2026-11-21T09:30:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Run",
-      "start": "2026-11-21T09:30:00-05:00",
-      "end": "2026-11-21T10:30:00-05:00",
-      "allDay": false,
-      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
-    },
-    {
-      "title": "Love / Becca Planning",
-      "start": "2026-11-21T10:00:00-05:00",
-      "end": "2026-11-21T11:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Lunch",
-      "start": "2026-11-21T11:45:00-05:00",
-      "end": "2026-11-21T12:45:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Ortho Appointment",
-      "start": "2026-11-21T13:00:00-05:00",
-      "end": "2026-11-21T14:00:00-05:00",
-      "allDay": false,
-      "location": "155 E 55th St, New York, NY 10022, USA"
     },
     {
       "title": "Dinner",
@@ -238,6 +154,97 @@
       "end": "2026-11-23T19:00:00-05:00",
       "allDay": false,
       "location": "Mudd 343"
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-11-23T19:00:00-05:00",
+      "end": "2026-11-23T20:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "30 min with Love (Aniqa Delwara)",
+      "start": "2026-11-23T20:00:00-05:00",
+      "end": "2026-11-23T20:30:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-11-23T20:45:00-05:00",
+      "end": "2026-11-23T21:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-11-23T21:30:00-05:00",
+      "end": "2026-11-24T05:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "Office",
+      "start": "2026-11-24T00:00:00",
+      "end": "2026-11-25T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-24T05:30:00-05:00",
+      "end": "2026-11-24T05:45:00-05:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-11-24T05:45:00-05:00",
+      "end": "2026-11-24T07:30:00-05:00",
+      "allDay": false,
+      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
+    },
+    {
+      "title": "Run",
+      "start": "2026-11-24T07:30:00-05:00",
+      "end": "2026-11-24T08:30:00-05:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Breakfast",
+      "start": "2026-11-24T08:30:00-05:00",
+      "end": "2026-11-24T09:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-24T09:00:00-05:00",
+      "end": "2026-11-24T09:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-11-24T11:45:00-05:00",
+      "end": "2026-11-24T12:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Classes",
+      "start": "2026-11-24T12:45:00-05:00",
+      "end": "2026-11-24T18:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-11-24T18:45:00-05:00",
+      "end": "2026-11-24T19:30:00-05:00",
+      "allDay": false,
+      "location": null
     }
   ],
   "tasks": [
