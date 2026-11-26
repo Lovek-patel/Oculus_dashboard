@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T02:05:22.030Z",
+  "generated_at": "2026-11-26T10:55:39.503Z",
   "events": [
     {
       "title": "Office",
@@ -135,9 +135,23 @@
       "location": null
     },
     {
+      "title": "MyoLink — wire 3 EMGs and collect signals",
+      "start": "2026-11-26T09:00:00-05:00",
+      "end": "2026-11-26T12:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "Lunch",
       "start": "2026-11-26T11:45:00-05:00",
       "end": "2026-11-26T12:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "PhD applications",
+      "start": "2026-11-26T12:00:00-05:00",
+      "end": "2026-11-26T18:00:00-05:00",
       "allDay": false,
       "location": null
     },
@@ -170,11 +184,25 @@
       "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
     },
     {
+      "title": "Laundry",
+      "start": "2026-11-26T21:00:00-05:00",
+      "end": "2026-11-26T22:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "Sleep",
       "start": "2026-11-26T21:30:00-05:00",
       "end": "2026-11-27T05:30:00-05:00",
       "allDay": false,
       "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "TV catch-up",
+      "start": "2026-11-26T22:00:00-05:00",
+      "end": "2026-11-26T23:00:00-05:00",
+      "allDay": false,
+      "location": null
     },
     {
       "title": "Office",
@@ -212,6 +240,13 @@
       "location": null
     },
     {
+      "title": "PhD applications",
+      "start": "2026-11-27T09:00:00-05:00",
+      "end": "2026-11-27T13:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "Lunch",
       "start": "2026-11-27T11:45:00-05:00",
       "end": "2026-11-27T12:45:00-05:00",
@@ -226,9 +261,30 @@
       "location": null
     },
     {
+      "title": "Lab on a Chip — finish presentation",
+      "start": "2026-11-27T14:00:00-05:00",
+      "end": "2026-11-27T16:30:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Mantis — simulation and walking gait",
+      "start": "2026-11-27T14:00:00-05:00",
+      "end": "2026-11-27T17:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
       "title": "Commute to Campus",
       "start": "2026-11-27T17:00:00-05:00",
       "end": "2026-11-27T18:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Mantis — physical robot modifications and testing",
+      "start": "2026-11-27T17:00:00-05:00",
+      "end": "2026-11-27T19:00:00-05:00",
       "allDay": false,
       "location": null
     }
