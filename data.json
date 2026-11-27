@@ -1,81 +1,11 @@
 {
-  "generated_at": "2026-11-26T20:01:34.485Z",
+  "generated_at": "2026-11-27T02:51:46.257Z",
   "events": [
-    {
-      "title": "Office",
-      "start": "2026-11-24T00:00:00",
-      "end": "2026-11-25T23:59:59",
-      "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Dinner",
-      "start": "2026-11-24T18:45:00-05:00",
-      "end": "2026-11-24T19:30:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "30 min with Love (Aniqa Delwara)",
-      "start": "2026-11-24T19:30:00-05:00",
-      "end": "2026-11-24T20:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Tutor",
-      "start": "2026-11-24T20:00:00-05:00",
-      "end": "2026-11-24T21:00:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Bed Time Routine",
-      "start": "2026-11-24T20:45:00-05:00",
-      "end": "2026-11-24T21:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
-    {
-      "title": "Sleep",
-      "start": "2026-11-24T21:30:00-05:00",
-      "end": "2026-11-25T05:30:00-05:00",
-      "allDay": false,
-      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
-    },
     {
       "title": "Office",
       "start": "2026-11-25T00:00:00",
       "end": "2026-11-26T23:59:59",
       "allDay": true,
-      "location": null
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-25T05:30:00-05:00",
-      "end": "2026-11-25T05:45:00-05:00",
-      "allDay": false,
-      "location": "431 Riverside Dr, New York, NY 10025"
-    },
-    {
-      "title": "Gym",
-      "start": "2026-11-25T05:45:00-05:00",
-      "end": "2026-11-25T07:30:00-05:00",
-      "allDay": false,
-      "location": "Dodge Physical Fitness Center, 3030 Broadway, New York, NY 10027, USA"
-    },
-    {
-      "title": "Get Ready",
-      "start": "2026-11-25T07:30:00-05:00",
-      "end": "2026-11-25T08:15:00-05:00",
-      "allDay": false,
-      "location": null
-    },
-    {
-      "title": "Dentist",
-      "start": "2026-11-25T11:00:00-05:00",
-      "end": "2026-11-25T12:00:00-05:00",
-      "allDay": false,
       "location": null
     },
     {
@@ -285,6 +215,111 @@
       "title": "Mantis — physical robot modifications and testing",
       "start": "2026-11-27T17:00:00-05:00",
       "end": "2026-11-27T19:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Dinner",
+      "start": "2026-11-27T19:00:00-05:00",
+      "end": "2026-11-27T20:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Tutor",
+      "start": "2026-11-27T20:00:00-05:00",
+      "end": "2026-11-27T21:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Robotic Studio — two slides and assignments",
+      "start": "2026-11-27T20:00:00-05:00",
+      "end": "2026-11-27T21:30:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Bed Time Routine",
+      "start": "2026-11-27T20:45:00-05:00",
+      "end": "2026-11-27T21:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "PhD applications — remaining essays",
+      "start": "2026-11-27T21:30:00-05:00",
+      "end": "2026-11-27T23:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Sleep",
+      "start": "2026-11-27T21:30:00-05:00",
+      "end": "2026-11-28T05:30:00-05:00",
+      "allDay": false,
+      "location": "Woodbridge, 431 Riverside Dr, New York, NY 10025, USA"
+    },
+    {
+      "title": "TV catch-up",
+      "start": "2026-11-27T23:00:00-05:00",
+      "end": "2026-11-27T23:59:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Home",
+      "start": "2026-11-28T00:00:00",
+      "end": "2026-11-29T23:59:59",
+      "allDay": true,
+      "location": null
+    },
+    {
+      "title": "Get Ready",
+      "start": "2026-11-28T05:30:00-05:00",
+      "end": "2026-11-28T05:45:00-05:00",
+      "allDay": false,
+      "location": "431 Riverside Dr, New York, NY 10025"
+    },
+    {
+      "title": "Gym",
+      "start": "2026-11-28T08:00:00-05:00",
+      "end": "2026-11-28T09:30:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "PhD applications — finalize and submit all",
+      "start": "2026-11-28T09:00:00-05:00",
+      "end": "2026-11-28T14:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Run",
+      "start": "2026-11-28T09:30:00-05:00",
+      "end": "2026-11-28T10:30:00-05:00",
+      "allDay": false,
+      "location": "Riverside Park, R25M+R3, New York, NY 10025, USA"
+    },
+    {
+      "title": "Love / Becca Planning",
+      "start": "2026-11-28T10:00:00-05:00",
+      "end": "2026-11-28T11:00:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Lunch",
+      "start": "2026-11-28T11:45:00-05:00",
+      "end": "2026-11-28T12:45:00-05:00",
+      "allDay": false,
+      "location": null
+    },
+    {
+      "title": "Environmental Microbiology — quorum sensing paper",
+      "start": "2026-11-28T15:00:00-05:00",
+      "end": "2026-11-28T18:00:00-05:00",
       "allDay": false,
       "location": null
     }
